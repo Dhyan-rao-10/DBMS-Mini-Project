@@ -1,0 +1,25 @@
+# Secrets — never commit real credentials
+.env
+.env.local
+.env.*.local
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# Python
+__pycache__/
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Course material kept locally only
+/DBMS Level 3 Project Requirements draft*.pdf
+/WhatsApp Image *.jpeg
