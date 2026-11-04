@@ -1,0 +1,2896 @@
+{
+  "report": {
+    "content_owner": "Monsoon Records",
+    "period": "2026-10",
+    "currency": "INR",
+    "generated_at": "2026-11-04T06:00:00Z"
+  },
+  "summary": {
+    "total_views": 5242237,
+    "total_revenue": 235586.27
+  },
+  "items": [
+    {
+      "asset": {
+        "title": "Petrichor",
+        "isrc": "INM0R2500003"
+      },
+      "channel": "Aarav - Topic",
+      "metrics": {
+        "views": 150323,
+        "revenue": 6674.17
+      }
+    },
+    {
+      "asset": {
+        "title": "Monsoon Letters",
+        "isrc": "INM0R2500001"
+      },
+      "channel": "Aarav - Topic",
+      "metrics": {
+        "views": 72937,
+        "revenue": 3298.11
+      }
+    },
+    {
+      "asset": {
+        "title": "Monsoon Letters (Lofi Flip)",
+        "isrc": "INM0R2500004"
+      },
+      "channel": "Kabir Beats - Topic",
+      "metrics": {
+        "views": 491504,
+        "revenue": 21239.57
+      }
+    },
+    {
+      "asset": {
+        "title": "Bandra Blues",
+        "isrc": "INM0R2500008"
+      },
+      "channel": "ZOYA - Topic",
+      "metrics": {
+        "views": 15238,
+        "revenue": 703.79
+      }
+    },
+    {
+      "asset": {
+        "title": "Local Train Dreams",
+        "isrc": "INM0R2500006"
+      },
+      "channel": "ZOYA - Topic",
+      "metrics": {
+        "views": 40718,
+        "revenue": 1803.83
+      }
+    },
+    {
+      "asset": {
+        "title": "Neon Chai",
+        "isrc": "INM0R2500005"
+      },
+      "channel": "ZOYA - Topic",
+      "metrics": {
+        "views": 6545,
+        "revenue": 300.93
+      }
+    },
+    {
+      "asset": {
+        "title": "Rain Cypher",
+        "isrc": "INM0R2500009"
+      },
+      "channel": "Arjun N - Topic",
+      "metrics": {
+        "views": 528997,
+        "revenue": 24470.36
+      }
+    },
+    {
+      "asset": {
+        "title": "Raag Megh (Revival)",
+        "isrc": "INM0R1900001"
+      },
+      "channel": "Leela Krishnan - Topic",
+      "metrics": {
+        "views": 205084,
+        "revenue": 9498.25
+      }
+    },
+    {
+      "asset": {
+        "title": "Waiting Stars",
+        "isrc": "INB0K2400002"
+      },
+      "channel": "Advait Live - Topic",
+      "metrics": {
+        "views": 307,
+        "revenue": 14.28
+      }
+    },
+    {
+      "asset": {
+        "title": "Counting Stars",
+        "isrc": "INB0K2400016"
+      },
+      "channel": "Parth Mishra - Topic",
+      "metrics": {
+        "views": 129,
+        "revenue": 5.98
+      }
+    },
+    {
+      "asset": {
+        "title": "Dreaming Rain",
+        "isrc": "INB0K2400030"
+      },
+      "channel": "Kunal Bhat - Topic",
+      "metrics": {
+        "views": 259,
+        "revenue": 11.88
+      }
+    },
+    {
+      "asset": {
+        "title": "Turning Rain",
+        "isrc": "INB0K2400044"
+      },
+      "channel": "Aman Agarwal - Topic",
+      "metrics": {
+        "views": 13538,
+        "revenue": 593.71
+      }
+    },
+    {
+      "asset": {
+        "title": "Fading Ghosts",
+        "isrc": "INB0K2400058"
+      },
+      "channel": "Nikhil Chopra - Topic",
+      "metrics": {
+        "views": 59433,
+        "revenue": 2654.41
+      }
+    },
+    {
+      "asset": {
+        "title": "Losing Ghosts",
+        "isrc": "INB0K2400072"
+      },
+      "channel": "Kabir Ghosh - Topic",
+      "metrics": {
+        "views": 1173,
+        "revenue": 52.16
+      }
+    },
+    {
+      "asset": {
+        "title": "Breaking Trains",
+        "isrc": "INB0K2400086"
+      },
+      "channel": "Ayaan Zaveri - Topic",
+      "metrics": {
+        "views": 33429,
+        "revenue": 1462.32
+      }
+    },
+    {
+      "asset": {
+        "title": "Chasing Mangoes",
+        "isrc": "INB0K2400100"
+      },
+      "channel": "Vivaan Shah - Topic",
+      "metrics": {
+        "views": 73,
+        "revenue": 3.26
+      }
+    },
+    {
+      "asset": {
+        "title": "Hiding Mangoes",
+        "isrc": "INB0K2400114"
+      },
+      "channel": "Dhruv Rana - Topic",
+      "metrics": {
+        "views": 2277,
+        "revenue": 105.93
+      }
+    },
+    {
+      "asset": {
+        "title": "Falling Kites",
+        "isrc": "INB0K2400128"
+      },
+      "channel": "Harsh Thakur - Topic",
+      "metrics": {
+        "views": 1540,
+        "revenue": 68.47
+      }
+    },
+    {
+      "asset": {
+        "title": "Walking Kites",
+        "isrc": "INB0K2400142"
+      },
+      "channel": "Karan Jain - Topic",
+      "metrics": {
+        "views": 51,
+        "revenue": 2.26
+      }
+    },
+    {
+      "asset": {
+        "title": "Burning Lights",
+        "isrc": "INB0K2400156"
+      },
+      "channel": "Siddharth Mishra - Topic",
+      "metrics": {
+        "views": 192,
+        "revenue": 8.97
+      }
+    },
+    {
+      "asset": {
+        "title": "Missing Lights",
+        "isrc": "INB0K2400170"
+      },
+      "channel": "Shaurya Bhat - Topic",
+      "metrics": {
+        "views": 26259,
+        "revenue": 1214.8
+      }
+    },
+    {
+      "asset": {
+        "title": "Calling Waves",
+        "isrc": "INB0K2400184"
+      },
+      "channel": "Reyansh Sound - Topic",
+      "metrics": {
+        "views": 55,
+        "revenue": 2.51
+      }
+    },
+    {
+      "asset": {
+        "title": "Watching Waves",
+        "isrc": "INB0K2400198"
+      },
+      "channel": "Rehan Chopra - Topic",
+      "metrics": {
+        "views": 1619,
+        "revenue": 72.71
+      }
+    },
+    {
+      "asset": {
+        "title": "Drifting Clouds",
+        "isrc": "INB0K2400212"
+      },
+      "channel": "Manav Live - Topic",
+      "metrics": {
+        "views": 57,
+        "revenue": 2.69
+      }
+    },
+    {
+      "asset": {
+        "title": "Dancing Streets",
+        "isrc": "INB0K2400226"
+      },
+      "channel": "Yash Zaveri - Topic",
+      "metrics": {
+        "views": 3644,
+        "revenue": 157.8
+      }
+    },
+    {
+      "asset": {
+        "title": "Singing Streets",
+        "isrc": "INB0K2400240"
+      },
+      "channel": "Varun Beats - Topic",
+      "metrics": {
+        "views": 394,
+        "revenue": 17.74
+      }
+    },
+    {
+      "asset": {
+        "title": "Running Fireflies",
+        "isrc": "INB0K2400254"
+      },
+      "channel": "Rahul Rana - Topic",
+      "metrics": {
+        "views": 21833,
+        "revenue": 967.22
+      }
+    },
+    {
+      "asset": {
+        "title": "Painting Fireflies",
+        "isrc": "INB0K2400268"
+      },
+      "channel": "Atharv MC - Topic",
+      "metrics": {
+        "views": 1445,
+        "revenue": 68.21
+      }
+    },
+    {
+      "asset": {
+        "title": "Floating Mirrors",
+        "isrc": "INB0K2400282"
+      },
+      "channel": "Advait Jain - Topic",
+      "metrics": {
+        "views": 782,
+        "revenue": 34.38
+      }
+    },
+    {
+      "asset": {
+        "title": "Finding Mirrors",
+        "isrc": "INB0K2400296"
+      },
+      "channel": "Parth Wave - Topic",
+      "metrics": {
+        "views": 7816,
+        "revenue": 368.84
+      }
+    },
+    {
+      "asset": {
+        "title": "Holding Embers",
+        "isrc": "INB0K2400310"
+      },
+      "channel": "Kunal Bhat - Topic",
+      "metrics": {
+        "views": 11838,
+        "revenue": 545.34
+      }
+    },
+    {
+      "asset": {
+        "title": "Writing Embers",
+        "isrc": "INB0K2400324"
+      },
+      "channel": "Aman Sound - Topic",
+      "metrics": {
+        "views": 37598,
+        "revenue": 1763.37
+      }
+    },
+    {
+      "asset": {
+        "title": "Glowing Petals",
+        "isrc": "INB0K2400338"
+      },
+      "channel": "Nikhil Thakur - Topic",
+      "metrics": {
+        "views": 31861,
+        "revenue": 1493.43
+      }
+    },
+    {
+      "asset": {
+        "title": "Waiting Sparrows",
+        "isrc": "INB0K2400352"
+      },
+      "channel": "Kabir Live - Topic",
+      "metrics": {
+        "views": 837,
+        "revenue": 35.88
+      }
+    },
+    {
+      "asset": {
+        "title": "Counting Sparrows",
+        "isrc": "INB0K2400366"
+      },
+      "channel": "Ayaan Mishra - Topic",
+      "metrics": {
+        "views": 328,
+        "revenue": 15.38
+      }
+    },
+    {
+      "asset": {
+        "title": "Dreaming Moons",
+        "isrc": "INB0K2400380"
+      },
+      "channel": "Vivaan Beats - Topic",
+      "metrics": {
+        "views": 48,
+        "revenue": 2.19
+      }
+    },
+    {
+      "asset": {
+        "title": "Turning Moons",
+        "isrc": "INB0K2400394"
+      },
+      "channel": "Dhruv Agarwal - Topic",
+      "metrics": {
+        "views": 2307,
+        "revenue": 100.95
+      }
+    },
+    {
+      "asset": {
+        "title": "Fading Rooftops",
+        "isrc": "INB0K2400408"
+      },
+      "channel": "Harsh MC - Topic",
+      "metrics": {
+        "views": 49713,
+        "revenue": 2340.57
+      }
+    },
+    {
+      "asset": {
+        "title": "Losing Rooftops",
+        "isrc": "INB0K2400422"
+      },
+      "channel": "Karan Ghosh - Topic",
+      "metrics": {
+        "views": 22426,
+        "revenue": 980.17
+      }
+    },
+    {
+      "asset": {
+        "title": "Breaking Oceans",
+        "isrc": "INB0K2400436"
+      },
+      "channel": "Siddharth Wave - Topic",
+      "metrics": {
+        "views": 26471,
+        "revenue": 1246.4
+      }
+    },
+    {
+      "asset": {
+        "title": "Chasing Whispers",
+        "isrc": "INB0K2400450"
+      },
+      "channel": "Shaurya Shah - Topic",
+      "metrics": {
+        "views": 275,
+        "revenue": 12.71
+      }
+    },
+    {
+      "asset": {
+        "title": "Hiding Whispers",
+        "isrc": "INB0K2400464"
+      },
+      "channel": "Reyansh Sound - Topic",
+      "metrics": {
+        "views": 17674,
+        "revenue": 828.05
+      }
+    },
+    {
+      "asset": {
+        "title": "Falling Colours",
+        "isrc": "INB0K2400478"
+      },
+      "channel": "Rehan Thakur - Topic",
+      "metrics": {
+        "views": 578,
+        "revenue": 27.02
+      }
+    },
+    {
+      "asset": {
+        "title": "Walking Colours",
+        "isrc": "INB0K2400492"
+      },
+      "channel": "Manav Jain - Topic",
+      "metrics": {
+        "views": 10114,
+        "revenue": 460.01
+      }
+    },
+    {
+      "asset": {
+        "title": "Burning Heartbeats",
+        "isrc": "INB0K2400506"
+      },
+      "channel": "Yash Mishra - Topic",
+      "metrics": {
+        "views": 62039,
+        "revenue": 2678.02
+      }
+    },
+    {
+      "asset": {
+        "title": "Missing Heartbeats",
+        "isrc": "INB0K2400520"
+      },
+      "channel": "Varun Bhat - Topic",
+      "metrics": {
+        "views": 2432,
+        "revenue": 106.2
+      }
+    },
+    {
+      "asset": {
+        "title": "Calling Monsoons",
+        "isrc": "INB0K2400534"
+      },
+      "channel": "Rahul Agarwal - Topic",
+      "metrics": {
+        "views": 298,
+        "revenue": 13.7
+      }
+    },
+    {
+      "asset": {
+        "title": "Watching Monsoons",
+        "isrc": "INB0K2400548"
+      },
+      "channel": "Atharv Chopra - Topic",
+      "metrics": {
+        "views": 33,
+        "revenue": 1.56
+      }
+    },
+    {
+      "asset": {
+        "title": "Drifting Shadows",
+        "isrc": "INB0K2400562"
+      },
+      "channel": "Advait Ghosh - Topic",
+      "metrics": {
+        "views": 137,
+        "revenue": 5.99
+      }
+    },
+    {
+      "asset": {
+        "title": "Dancing Horizons",
+        "isrc": "INB0K2400576"
+      },
+      "channel": "Parth Zaveri - Topic",
+      "metrics": {
+        "views": 3891,
+        "revenue": 175.71
+      }
+    },
+    {
+      "asset": {
+        "title": "Singing Horizons",
+        "isrc": "INB0K2400590"
+      },
+      "channel": "Kunal Shah - Topic",
+      "metrics": {
+        "views": 56,
+        "revenue": 2.62
+      }
+    },
+    {
+      "asset": {
+        "title": "Running Tea Stalls",
+        "isrc": "INB0K2400604"
+      },
+      "channel": "Aman Rana - Topic",
+      "metrics": {
+        "views": 3245,
+        "revenue": 149.71
+      }
+    },
+    {
+      "asset": {
+        "title": "Painting Tea Stalls",
+        "isrc": "INB0K2400618"
+      },
+      "channel": "Nikhil Thakur - Topic",
+      "metrics": {
+        "views": 13494,
+        "revenue": 629.89
+      }
+    },
+    {
+      "asset": {
+        "title": "Floating Stars (Acoustic)",
+        "isrc": "INB0K2400632"
+      },
+      "channel": "Kabir Jain - Topic",
+      "metrics": {
+        "views": 2967,
+        "revenue": 130.91
+      }
+    },
+    {
+      "asset": {
+        "title": "Finding Stars (Acoustic)",
+        "isrc": "INB0K2400646"
+      },
+      "channel": "Ayaan Wave - Topic",
+      "metrics": {
+        "views": 37387,
+        "revenue": 1715.57
+      }
+    },
+    {
+      "asset": {
+        "title": "Holding Rain (Acoustic)",
+        "isrc": "INB0K2400660"
+      },
+      "channel": "Vivaan Bhat - Topic",
+      "metrics": {
+        "views": 1933,
+        "revenue": 90.7
+      }
+    },
+    {
+      "asset": {
+        "title": "Writing Rain (Acoustic)",
+        "isrc": "INB0K2400674"
+      },
+      "channel": "Dhruv Sound - Topic",
+      "metrics": {
+        "views": 1180,
+        "revenue": 51.05
+      }
+    },
+    {
+      "asset": {
+        "title": "Glowing Ghosts (Acoustic)",
+        "isrc": "INB0K2400688"
+      },
+      "channel": "Harsh Chopra - Topic",
+      "metrics": {
+        "views": 15260,
+        "revenue": 700.36
+      }
+    },
+    {
+      "asset": {
+        "title": "Waiting Trains (Acoustic)",
+        "isrc": "INB0K2400702"
+      },
+      "channel": "Karan Live - Topic",
+      "metrics": {
+        "views": 44142,
+        "revenue": 1962.02
+      }
+    },
+    {
+      "asset": {
+        "title": "Counting Trains (Acoustic)",
+        "isrc": "INB0K2400716"
+      },
+      "channel": "Siddharth Zaveri - Topic",
+      "metrics": {
+        "views": 43633,
+        "revenue": 2000.12
+      }
+    },
+    {
+      "asset": {
+        "title": "Dreaming Mangoes (Acoustic)",
+        "isrc": "INB0K2400730"
+      },
+      "channel": "Shaurya Beats - Topic",
+      "metrics": {
+        "views": 42777,
+        "revenue": 1853.27
+      }
+    },
+    {
+      "asset": {
+        "title": "Turning Mangoes (Acoustic)",
+        "isrc": "INB0K2400744"
+      },
+      "channel": "Reyansh Rana - Topic",
+      "metrics": {
+        "views": 686,
+        "revenue": 29.94
+      }
+    },
+    {
+      "asset": {
+        "title": "Fading Kites (Acoustic)",
+        "isrc": "INB0K2400758"
+      },
+      "channel": "Rehan MC - Topic",
+      "metrics": {
+        "views": 129,
+        "revenue": 5.55
+      }
+    },
+    {
+      "asset": {
+        "title": "Losing Kites (Acoustic)",
+        "isrc": "INB0K2400772"
+      },
+      "channel": "Manav Jain - Topic",
+      "metrics": {
+        "views": 8967,
+        "revenue": 399.18
+      }
+    },
+    {
+      "asset": {
+        "title": "Breaking Lights (Acoustic)",
+        "isrc": "INB0K2400786"
+      },
+      "channel": "Yash Wave - Topic",
+      "metrics": {
+        "views": 794,
+        "revenue": 34.39
+      }
+    },
+    {
+      "asset": {
+        "title": "Chasing Waves (Acoustic)",
+        "isrc": "INB0K2400800"
+      },
+      "channel": "Varun Bhat - Topic",
+      "metrics": {
+        "views": 25640,
+        "revenue": 1123.45
+      }
+    },
+    {
+      "asset": {
+        "title": "Hiding Waves (Acoustic)",
+        "isrc": "INB0K2400814"
+      },
+      "channel": "Rahul Sound - Topic",
+      "metrics": {
+        "views": 491,
+        "revenue": 21.7
+      }
+    },
+    {
+      "asset": {
+        "title": "Falling Clouds (Acoustic)",
+        "isrc": "INB0K2400828"
+      },
+      "channel": "Atharv Thakur - Topic",
+      "metrics": {
+        "views": 12331,
+        "revenue": 561.25
+      }
+    },
+    {
+      "asset": {
+        "title": "Walking Clouds (Acoustic)",
+        "isrc": "INB0K2400842"
+      },
+      "channel": "Advait Live - Topic",
+      "metrics": {
+        "views": 33116,
+        "revenue": 1484.51
+      }
+    },
+    {
+      "asset": {
+        "title": "Burning Streets (Acoustic)",
+        "isrc": "INB0K2400856"
+      },
+      "channel": "Parth Mishra - Topic",
+      "metrics": {
+        "views": 32977,
+        "revenue": 1498.45
+      }
+    },
+    {
+      "asset": {
+        "title": "Missing Streets (Acoustic)",
+        "isrc": "INB0K2400870"
+      },
+      "channel": "Kunal Beats - Topic",
+      "metrics": {
+        "views": 3132,
+        "revenue": 142.26
+      }
+    },
+    {
+      "asset": {
+        "title": "Calling Fireflies (Acoustic)",
+        "isrc": "INB0K2400884"
+      },
+      "channel": "Aman Agarwal - Topic",
+      "metrics": {
+        "views": 40004,
+        "revenue": 1720.81
+      }
+    },
+    {
+      "asset": {
+        "title": "Watching Fireflies (Acoustic)",
+        "isrc": "INB0K2400898"
+      },
+      "channel": "Nikhil MC - Topic",
+      "metrics": {
+        "views": 266,
+        "revenue": 11.57
+      }
+    },
+    {
+      "asset": {
+        "title": "Drifting Mirrors (Acoustic)",
+        "isrc": "INB0K2400912"
+      },
+      "channel": "Kabir Ghosh - Topic",
+      "metrics": {
+        "views": 336,
+        "revenue": 15.33
+      }
+    },
+    {
+      "asset": {
+        "title": "Dancing Embers (Acoustic)",
+        "isrc": "INB0K2400926"
+      },
+      "channel": "Ayaan Wave - Topic",
+      "metrics": {
+        "views": 5625,
+        "revenue": 264.77
+      }
+    },
+    {
+      "asset": {
+        "title": "Singing Embers (Acoustic)",
+        "isrc": "INB0K2400940"
+      },
+      "channel": "Vivaan Shah - Topic",
+      "metrics": {
+        "views": 752,
+        "revenue": 32.41
+      }
+    },
+    {
+      "asset": {
+        "title": "Running Petals (Acoustic)",
+        "isrc": "INB0K2400954"
+      },
+      "channel": "Dhruv Sound - Topic",
+      "metrics": {
+        "views": 5069,
+        "revenue": 230.69
+      }
+    },
+    {
+      "asset": {
+        "title": "Painting Petals (Acoustic)",
+        "isrc": "INB0K2400968"
+      },
+      "channel": "Harsh Thakur - Topic",
+      "metrics": {
+        "views": 1150,
+        "revenue": 51.58
+      }
+    },
+    {
+      "asset": {
+        "title": "Floating Sparrows (Acoustic)",
+        "isrc": "INB0K2400982"
+      },
+      "channel": "Karan Jain - Topic",
+      "metrics": {
+        "views": 2980,
+        "revenue": 133.46
+      }
+    },
+    {
+      "asset": {
+        "title": "Finding Sparrows (Acoustic)",
+        "isrc": "INB0K2400996"
+      },
+      "channel": "Siddharth Mishra - Topic",
+      "metrics": {
+        "views": 1247,
+        "revenue": 53.85
+      }
+    },
+    {
+      "asset": {
+        "title": "Holding Moons (Acoustic)",
+        "isrc": "INB0K2401010"
+      },
+      "channel": "Shaurya Bhat - Topic",
+      "metrics": {
+        "views": 98,
+        "revenue": 4.46
+      }
+    },
+    {
+      "asset": {
+        "title": "Writing Moons (Acoustic)",
+        "isrc": "INB0K2401024"
+      },
+      "channel": "Reyansh Agarwal - Topic",
+      "metrics": {
+        "views": 158,
+        "revenue": 7.42
+      }
+    },
+    {
+      "asset": {
+        "title": "Glowing Rooftops (Acoustic)",
+        "isrc": "INB0K2401038"
+      },
+      "channel": "Rehan Chopra - Topic",
+      "metrics": {
+        "views": 823,
+        "revenue": 36.1
+      }
+    },
+    {
+      "asset": {
+        "title": "Waiting Oceans (Acoustic)",
+        "isrc": "INB0K2401052"
+      },
+      "channel": "Manav Ghosh - Topic",
+      "metrics": {
+        "views": 379,
+        "revenue": 16.63
+      }
+    },
+    {
+      "asset": {
+        "title": "Counting Oceans (Acoustic)",
+        "isrc": "INB0K2401066"
+      },
+      "channel": "Yash Zaveri - Topic",
+      "metrics": {
+        "views": 140,
+        "revenue": 6.16
+      }
+    },
+    {
+      "asset": {
+        "title": "Dreaming Whispers (Acoustic)",
+        "isrc": "INB0K2401080"
+      },
+      "channel": "Varun Shah - Topic",
+      "metrics": {
+        "views": 54859,
+        "revenue": 2391.57
+      }
+    },
+    {
+      "asset": {
+        "title": "Turning Whispers (Acoustic)",
+        "isrc": "INB0K2401094"
+      },
+      "channel": "Rahul Rana - Topic",
+      "metrics": {
+        "views": 9879,
+        "revenue": 439.53
+      }
+    },
+    {
+      "asset": {
+        "title": "Fading Colours (Acoustic)",
+        "isrc": "INB0K2401108"
+      },
+      "channel": "Atharv Thakur - Topic",
+      "metrics": {
+        "views": 31345,
+        "revenue": 1355.64
+      }
+    },
+    {
+      "asset": {
+        "title": "Losing Colours (Acoustic)",
+        "isrc": "INB0K2401122"
+      },
+      "channel": "Advait Jain - Topic",
+      "metrics": {
+        "views": 49951,
+        "revenue": 2249.74
+      }
+    },
+    {
+      "asset": {
+        "title": "Breaking Heartbeats (Acoustic)",
+        "isrc": "INB0K2401136"
+      },
+      "channel": "Parth Wave - Topic",
+      "metrics": {
+        "views": 1036,
+        "revenue": 47.25
+      }
+    },
+    {
+      "asset": {
+        "title": "Chasing Monsoons (Acoustic)",
+        "isrc": "INB0K2401150"
+      },
+      "channel": "Kunal Bhat - Topic",
+      "metrics": {
+        "views": 3200,
+        "revenue": 138.76
+      }
+    },
+    {
+      "asset": {
+        "title": "Hiding Monsoons (Acoustic)",
+        "isrc": "INB0K2401164"
+      },
+      "channel": "Aman Sound - Topic",
+      "metrics": {
+        "views": 466,
+        "revenue": 21.04
+      }
+    },
+    {
+      "asset": {
+        "title": "Falling Shadows (Acoustic)",
+        "isrc": "INB0K2401178"
+      },
+      "channel": "Nikhil Chopra - Topic",
+      "metrics": {
+        "views": 5130,
+        "revenue": 219.89
+      }
+    },
+    {
+      "asset": {
+        "title": "Walking Shadows (Acoustic)",
+        "isrc": "INB0K2401192"
+      },
+      "channel": "Kabir Live - Topic",
+      "metrics": {
+        "views": 313,
+        "revenue": 14.27
+      }
+    },
+    {
+      "asset": {
+        "title": "Burning Horizons (Acoustic)",
+        "isrc": "INB0K2401206"
+      },
+      "channel": "Ayaan Zaveri - Topic",
+      "metrics": {
+        "views": 196,
+        "revenue": 8.43
+      }
+    },
+    {
+      "asset": {
+        "title": "Missing Horizons (Acoustic)",
+        "isrc": "INB0K2401220"
+      },
+      "channel": "Vivaan Beats - Topic",
+      "metrics": {
+        "views": 34295,
+        "revenue": 1474.65
+      }
+    },
+    {
+      "asset": {
+        "title": "Calling Tea Stalls (Acoustic)",
+        "isrc": "INB0K2401234"
+      },
+      "channel": "Dhruv Rana - Topic",
+      "metrics": {
+        "views": 186,
+        "revenue": 8.72
+      }
+    },
+    {
+      "asset": {
+        "title": "Watching Tea Stalls (Acoustic)",
+        "isrc": "INB0K2401248"
+      },
+      "channel": "Harsh MC - Topic",
+      "metrics": {
+        "views": 122,
+        "revenue": 5.23
+      }
+    },
+    {
+      "asset": {
+        "title": "Drifting Stars (Remix)",
+        "isrc": "INB0K2401262"
+      },
+      "channel": "Karan Jain - Topic",
+      "metrics": {
+        "views": 1932,
+        "revenue": 88.58
+      }
+    },
+    {
+      "asset": {
+        "title": "Dancing Rain (Remix)",
+        "isrc": "INB0K2401276"
+      },
+      "channel": "Siddharth Wave - Topic",
+      "metrics": {
+        "views": 1696,
+        "revenue": 77.57
+      }
+    },
+    {
+      "asset": {
+        "title": "Singing Rain (Remix)",
+        "isrc": "INB0K2401290"
+      },
+      "channel": "Shaurya Shah - Topic",
+      "metrics": {
+        "views": 549,
+        "revenue": 24.08
+      }
+    },
+    {
+      "asset": {
+        "title": "Running Ghosts (Remix)",
+        "isrc": "INB0K2401304"
+      },
+      "channel": "Reyansh Sound - Topic",
+      "metrics": {
+        "views": 111,
+        "revenue": 5.25
+      }
+    },
+    {
+      "asset": {
+        "title": "Painting Ghosts (Remix)",
+        "isrc": "INB0K2401318"
+      },
+      "channel": "Rehan Thakur - Topic",
+      "metrics": {
+        "views": 65699,
+        "revenue": 2892.42
+      }
+    },
+    {
+      "asset": {
+        "title": "Floating Trains (Remix)",
+        "isrc": "INB0K2401332"
+      },
+      "channel": "Manav Live - Topic",
+      "metrics": {
+        "views": 33,
+        "revenue": 1.47
+      }
+    },
+    {
+      "asset": {
+        "title": "Finding Trains (Remix)",
+        "isrc": "INB0K2401346"
+      },
+      "channel": "Yash Mishra - Topic",
+      "metrics": {
+        "views": 2526,
+        "revenue": 115.06
+      }
+    },
+    {
+      "asset": {
+        "title": "Holding Mangoes (Remix)",
+        "isrc": "INB0K2401360"
+      },
+      "channel": "Varun Beats - Topic",
+      "metrics": {
+        "views": 48525,
+        "revenue": 2075.75
+      }
+    },
+    {
+      "asset": {
+        "title": "Writing Mangoes (Remix)",
+        "isrc": "INB0K2401374"
+      },
+      "channel": "Rahul Agarwal - Topic",
+      "metrics": {
+        "views": 101,
+        "revenue": 4.35
+      }
+    },
+    {
+      "asset": {
+        "title": "Glowing Kites (Remix)",
+        "isrc": "INB0K2401388"
+      },
+      "channel": "Atharv MC - Topic",
+      "metrics": {
+        "views": 4129,
+        "revenue": 181.94
+      }
+    },
+    {
+      "asset": {
+        "title": "Waiting Lights (Remix)",
+        "isrc": "INB0K2401402"
+      },
+      "channel": "Advait Ghosh - Topic",
+      "metrics": {
+        "views": 4083,
+        "revenue": 175.26
+      }
+    },
+    {
+      "asset": {
+        "title": "Counting Lights (Remix)",
+        "isrc": "INB0K2401416"
+      },
+      "channel": "Parth Wave - Topic",
+      "metrics": {
+        "views": 839,
+        "revenue": 39.29
+      }
+    },
+    {
+      "asset": {
+        "title": "Dreaming Waves (Remix)",
+        "isrc": "INB0K2401430"
+      },
+      "channel": "Kunal Shah - Topic",
+      "metrics": {
+        "views": 2601,
+        "revenue": 111.8
+      }
+    },
+    {
+      "asset": {
+        "title": "Turning Waves (Remix)",
+        "isrc": "INB0K2401444"
+      },
+      "channel": "Aman Rana - Topic",
+      "metrics": {
+        "views": 964,
+        "revenue": 44.42
+      }
+    },
+    {
+      "asset": {
+        "title": "Fading Clouds (Remix)",
+        "isrc": "INB0K2401458"
+      },
+      "channel": "Nikhil Thakur - Topic",
+      "metrics": {
+        "views": 1980,
+        "revenue": 91.25
+      }
+    },
+    {
+      "asset": {
+        "title": "Losing Clouds (Remix)",
+        "isrc": "INB0K2401472"
+      },
+      "channel": "Kabir Jain - Topic",
+      "metrics": {
+        "views": 406,
+        "revenue": 17.4
+      }
+    },
+    {
+      "asset": {
+        "title": "Breaking Streets (Remix)",
+        "isrc": "INB0K2401486"
+      },
+      "channel": "Ayaan Mishra - Topic",
+      "metrics": {
+        "views": 17060,
+        "revenue": 764.22
+      }
+    },
+    {
+      "asset": {
+        "title": "Chasing Fireflies (Remix)",
+        "isrc": "INB0K2401500"
+      },
+      "channel": "Vivaan Bhat - Topic",
+      "metrics": {
+        "views": 4301,
+        "revenue": 191.39
+      }
+    },
+    {
+      "asset": {
+        "title": "Hiding Fireflies (Remix)",
+        "isrc": "INB0K2401514"
+      },
+      "channel": "Dhruv Agarwal - Topic",
+      "metrics": {
+        "views": 20405,
+        "revenue": 936.33
+      }
+    },
+    {
+      "asset": {
+        "title": "Falling Mirrors (Remix)",
+        "isrc": "INB0K2401528"
+      },
+      "channel": "Harsh Chopra - Topic",
+      "metrics": {
+        "views": 810,
+        "revenue": 34.98
+      }
+    },
+    {
+      "asset": {
+        "title": "Walking Mirrors (Remix)",
+        "isrc": "INB0K2401542"
+      },
+      "channel": "Karan Ghosh - Topic",
+      "metrics": {
+        "views": 97,
+        "revenue": 4.35
+      }
+    },
+    {
+      "asset": {
+        "title": "Burning Embers (Remix)",
+        "isrc": "INB0K2401556"
+      },
+      "channel": "Siddharth Zaveri - Topic",
+      "metrics": {
+        "views": 28287,
+        "revenue": 1323.72
+      }
+    },
+    {
+      "asset": {
+        "title": "Missing Embers (Remix)",
+        "isrc": "INB0K2401570"
+      },
+      "channel": "Shaurya Shah - Topic",
+      "metrics": {
+        "views": 338,
+        "revenue": 15.66
+      }
+    },
+    {
+      "asset": {
+        "title": "Calling Petals (Remix)",
+        "isrc": "INB0K2401584"
+      },
+      "channel": "Reyansh Rana - Topic",
+      "metrics": {
+        "views": 22160,
+        "revenue": 957.1
+      }
+    },
+    {
+      "asset": {
+        "title": "Watching Petals (Remix)",
+        "isrc": "INB0K2401598"
+      },
+      "channel": "Rehan MC - Topic",
+      "metrics": {
+        "views": 261,
+        "revenue": 11.87
+      }
+    },
+    {
+      "asset": {
+        "title": "Drifting Sparrows (Remix)",
+        "isrc": "INB0K2401612"
+      },
+      "channel": "Manav Jain - Topic",
+      "metrics": {
+        "views": 10178,
+        "revenue": 439.07
+      }
+    },
+    {
+      "asset": {
+        "title": "Dancing Moons (Remix)",
+        "isrc": "INB0K2401626"
+      },
+      "channel": "Yash Wave - Topic",
+      "metrics": {
+        "views": 5550,
+        "revenue": 246.86
+      }
+    },
+    {
+      "asset": {
+        "title": "Singing Moons (Remix)",
+        "isrc": "INB0K2401640"
+      },
+      "channel": "Varun Bhat - Topic",
+      "metrics": {
+        "views": 118,
+        "revenue": 5.29
+      }
+    },
+    {
+      "asset": {
+        "title": "Running Rooftops (Remix)",
+        "isrc": "INB0K2401654"
+      },
+      "channel": "Rahul Sound - Topic",
+      "metrics": {
+        "views": 1688,
+        "revenue": 75.15
+      }
+    },
+    {
+      "asset": {
+        "title": "Painting Rooftops (Remix)",
+        "isrc": "INB0K2401668"
+      },
+      "channel": "Atharv Chopra - Topic",
+      "metrics": {
+        "views": 3876,
+        "revenue": 180.23
+      }
+    },
+    {
+      "asset": {
+        "title": "Floating Oceans (Remix)",
+        "isrc": "INB0K2401682"
+      },
+      "channel": "Advait Live - Topic",
+      "metrics": {
+        "views": 673,
+        "revenue": 30.16
+      }
+    },
+    {
+      "asset": {
+        "title": "Finding Oceans (Remix)",
+        "isrc": "INB0K2401696"
+      },
+      "channel": "Parth Zaveri - Topic",
+      "metrics": {
+        "views": 5517,
+        "revenue": 249.13
+      }
+    },
+    {
+      "asset": {
+        "title": "Holding Whispers (Remix)",
+        "isrc": "INB0K2401710"
+      },
+      "channel": "Kunal Beats - Topic",
+      "metrics": {
+        "views": 9520,
+        "revenue": 434.82
+      }
+    },
+    {
+      "asset": {
+        "title": "Writing Whispers (Remix)",
+        "isrc": "INB0K2401724"
+      },
+      "channel": "Aman Rana - Topic",
+      "metrics": {
+        "views": 3874,
+        "revenue": 176.7
+      }
+    },
+    {
+      "asset": {
+        "title": "Glowing Colours (Remix)",
+        "isrc": "INB0K2401738"
+      },
+      "channel": "Nikhil MC - Topic",
+      "metrics": {
+        "views": 470,
+        "revenue": 20.47
+      }
+    },
+    {
+      "asset": {
+        "title": "Waiting Heartbeats (Remix)",
+        "isrc": "INB0K2401752"
+      },
+      "channel": "Kabir Ghosh - Topic",
+      "metrics": {
+        "views": 4739,
+        "revenue": 218.45
+      }
+    },
+    {
+      "asset": {
+        "title": "Counting Heartbeats (Remix)",
+        "isrc": "INB0K2401766"
+      },
+      "channel": "Ayaan Wave - Topic",
+      "metrics": {
+        "views": 49,
+        "revenue": 2.21
+      }
+    },
+    {
+      "asset": {
+        "title": "Dreaming Monsoons (Remix)",
+        "isrc": "INB0K2401780"
+      },
+      "channel": "Vivaan Shah - Topic",
+      "metrics": {
+        "views": 241,
+        "revenue": 10.66
+      }
+    },
+    {
+      "asset": {
+        "title": "Turning Monsoons (Remix)",
+        "isrc": "INB0K2401794"
+      },
+      "channel": "Dhruv Sound - Topic",
+      "metrics": {
+        "views": 42062,
+        "revenue": 1936.27
+      }
+    },
+    {
+      "asset": {
+        "title": "Fading Shadows (Remix)",
+        "isrc": "INB0K2401808"
+      },
+      "channel": "Harsh Thakur - Topic",
+      "metrics": {
+        "views": 11180,
+        "revenue": 519.13
+      }
+    },
+    {
+      "asset": {
+        "title": "Losing Shadows (Remix)",
+        "isrc": "INB0K2401822"
+      },
+      "channel": "Karan Live - Topic",
+      "metrics": {
+        "views": 124,
+        "revenue": 5.38
+      }
+    },
+    {
+      "asset": {
+        "title": "Breaking Horizons (Remix)",
+        "isrc": "INB0K2401836"
+      },
+      "channel": "Siddharth Mishra - Topic",
+      "metrics": {
+        "views": 9958,
+        "revenue": 449.2
+      }
+    },
+    {
+      "asset": {
+        "title": "Chasing Tea Stalls (Remix)",
+        "isrc": "INB0K2401850"
+      },
+      "channel": "Shaurya Beats - Topic",
+      "metrics": {
+        "views": 28573,
+        "revenue": 1247.86
+      }
+    },
+    {
+      "asset": {
+        "title": "Hiding Tea Stalls (Remix)",
+        "isrc": "INB0K2401864"
+      },
+      "channel": "Reyansh Agarwal - Topic",
+      "metrics": {
+        "views": 19377,
+        "revenue": 866.44
+      }
+    },
+    {
+      "asset": {
+        "title": "Falling Stars (Reprise)",
+        "isrc": "INB0K2401878"
+      },
+      "channel": "Rehan MC - Topic",
+      "metrics": {
+        "views": 2773,
+        "revenue": 128.98
+      }
+    },
+    {
+      "asset": {
+        "title": "Walking Stars (Reprise)",
+        "isrc": "INB0K2401892"
+      },
+      "channel": "Manav Ghosh - Topic",
+      "metrics": {
+        "views": 1074,
+        "revenue": 49.01
+      }
+    },
+    {
+      "asset": {
+        "title": "Burning Rain (Reprise)",
+        "isrc": "INB0K2401906"
+      },
+      "channel": "Yash Zaveri - Topic",
+      "metrics": {
+        "views": 97,
+        "revenue": 4.22
+      }
+    },
+    {
+      "asset": {
+        "title": "Missing Rain (Reprise)",
+        "isrc": "INB0K2401920"
+      },
+      "channel": "Varun Shah - Topic",
+      "metrics": {
+        "views": 32462,
+        "revenue": 1471.16
+      }
+    },
+    {
+      "asset": {
+        "title": "Calling Ghosts (Reprise)",
+        "isrc": "INB0K2401934"
+      },
+      "channel": "Rahul Rana - Topic",
+      "metrics": {
+        "views": 243,
+        "revenue": 11.31
+      }
+    },
+    {
+      "asset": {
+        "title": "Watching Ghosts (Reprise)",
+        "isrc": "INB0K2401948"
+      },
+      "channel": "Atharv Thakur - Topic",
+      "metrics": {
+        "views": 451,
+        "revenue": 21.16
+      }
+    },
+    {
+      "asset": {
+        "title": "Drifting Trains (Reprise)",
+        "isrc": "INB0K2401962"
+      },
+      "channel": "Advait Jain - Topic",
+      "metrics": {
+        "views": 1098,
+        "revenue": 47.42
+      }
+    },
+    {
+      "asset": {
+        "title": "Dancing Mangoes (Reprise)",
+        "isrc": "INB0K2401976"
+      },
+      "channel": "Parth Mishra - Topic",
+      "metrics": {
+        "views": 29021,
+        "revenue": 1302.96
+      }
+    },
+    {
+      "asset": {
+        "title": "Singing Mangoes (Reprise)",
+        "isrc": "INB0K2401990"
+      },
+      "channel": "Kunal Bhat - Topic",
+      "metrics": {
+        "views": 126,
+        "revenue": 5.87
+      }
+    },
+    {
+      "asset": {
+        "title": "Running Kites (Reprise)",
+        "isrc": "INB0K2402004"
+      },
+      "channel": "Aman Agarwal - Topic",
+      "metrics": {
+        "views": 7750,
+        "revenue": 337.88
+      }
+    },
+    {
+      "asset": {
+        "title": "Painting Kites (Reprise)",
+        "isrc": "INB0K2402018"
+      },
+      "channel": "Nikhil Chopra - Topic",
+      "metrics": {
+        "views": 280,
+        "revenue": 13.13
+      }
+    },
+    {
+      "asset": {
+        "title": "Floating Lights (Reprise)",
+        "isrc": "INB0K2402032"
+      },
+      "channel": "Kabir Ghosh - Topic",
+      "metrics": {
+        "views": 68,
+        "revenue": 3
+      }
+    },
+    {
+      "asset": {
+        "title": "Finding Lights (Reprise)",
+        "isrc": "INB0K2402046"
+      },
+      "channel": "Ayaan Zaveri - Topic",
+      "metrics": {
+        "views": 49,
+        "revenue": 2.1
+      }
+    },
+    {
+      "asset": {
+        "title": "Holding Waves (Reprise)",
+        "isrc": "INB0K2402060"
+      },
+      "channel": "Vivaan Beats - Topic",
+      "metrics": {
+        "views": 16097,
+        "revenue": 734.97
+      }
+    },
+    {
+      "asset": {
+        "title": "Writing Waves (Reprise)",
+        "isrc": "INB0K2402074"
+      },
+      "channel": "Dhruv Rana - Topic",
+      "metrics": {
+        "views": 723,
+        "revenue": 32.65
+      }
+    },
+    {
+      "asset": {
+        "title": "Glowing Clouds (Reprise)",
+        "isrc": "INB0K2402088"
+      },
+      "channel": "Harsh MC - Topic",
+      "metrics": {
+        "views": 13350,
+        "revenue": 590.13
+      }
+    },
+    {
+      "asset": {
+        "title": "Waiting Streets (Reprise)",
+        "isrc": "INB0K2402102"
+      },
+      "channel": "Karan Jain - Topic",
+      "metrics": {
+        "views": 22681,
+        "revenue": 1041.08
+      }
+    },
+    {
+      "asset": {
+        "title": "Counting Streets (Reprise)",
+        "isrc": "INB0K2402116"
+      },
+      "channel": "Siddharth Wave - Topic",
+      "metrics": {
+        "views": 59,
+        "revenue": 2.69
+      }
+    },
+    {
+      "asset": {
+        "title": "Dreaming Fireflies (Reprise)",
+        "isrc": "INB0K2402130"
+      },
+      "channel": "Shaurya Bhat - Topic",
+      "metrics": {
+        "views": 4552,
+        "revenue": 195.07
+      }
+    },
+    {
+      "asset": {
+        "title": "Turning Fireflies (Reprise)",
+        "isrc": "INB0K2402144"
+      },
+      "channel": "Reyansh Sound - Topic",
+      "metrics": {
+        "views": 256,
+        "revenue": 11.74
+      }
+    },
+    {
+      "asset": {
+        "title": "Fading Mirrors (Reprise)",
+        "isrc": "INB0K2402158"
+      },
+      "channel": "Rehan Chopra - Topic",
+      "metrics": {
+        "views": 25369,
+        "revenue": 1194.05
+      }
+    },
+    {
+      "asset": {
+        "title": "Losing Mirrors (Reprise)",
+        "isrc": "INB0K2402172"
+      },
+      "channel": "Manav Live - Topic",
+      "metrics": {
+        "views": 603,
+        "revenue": 26.27
+      }
+    },
+    {
+      "asset": {
+        "title": "Breaking Embers (Reprise)",
+        "isrc": "INB0K2402186"
+      },
+      "channel": "Yash Zaveri - Topic",
+      "metrics": {
+        "views": 182,
+        "revenue": 8.45
+      }
+    },
+    {
+      "asset": {
+        "title": "Chasing Petals (Reprise)",
+        "isrc": "INB0K2402200"
+      },
+      "channel": "Varun Beats - Topic",
+      "metrics": {
+        "views": 989,
+        "revenue": 46.4
+      }
+    },
+    {
+      "asset": {
+        "title": "Hiding Petals (Reprise)",
+        "isrc": "INB0K2402214"
+      },
+      "channel": "Rahul Agarwal - Topic",
+      "metrics": {
+        "views": 268,
+        "revenue": 12.21
+      }
+    },
+    {
+      "asset": {
+        "title": "Falling Sparrows (Reprise)",
+        "isrc": "INB0K2402228"
+      },
+      "channel": "Atharv MC - Topic",
+      "metrics": {
+        "views": 80,
+        "revenue": 3.55
+      }
+    },
+    {
+      "asset": {
+        "title": "Walking Sparrows (Reprise)",
+        "isrc": "INB0K2402242"
+      },
+      "channel": "Advait Ghosh - Topic",
+      "metrics": {
+        "views": 6664,
+        "revenue": 286.39
+      }
+    },
+    {
+      "asset": {
+        "title": "Burning Moons (Reprise)",
+        "isrc": "INB0K2402256"
+      },
+      "channel": "Parth Wave - Topic",
+      "metrics": {
+        "views": 96,
+        "revenue": 4.28
+      }
+    },
+    {
+      "asset": {
+        "title": "Missing Moons (Reprise)",
+        "isrc": "INB0K2402270"
+      },
+      "channel": "Kunal Shah - Topic",
+      "metrics": {
+        "views": 425,
+        "revenue": 19.76
+      }
+    },
+    {
+      "asset": {
+        "title": "Calling Rooftops (Reprise)",
+        "isrc": "INB0K2402284"
+      },
+      "channel": "Aman Sound - Topic",
+      "metrics": {
+        "views": 3855,
+        "revenue": 169.57
+      }
+    },
+    {
+      "asset": {
+        "title": "Watching Rooftops (Reprise)",
+        "isrc": "INB0K2402298"
+      },
+      "channel": "Nikhil Thakur - Topic",
+      "metrics": {
+        "views": 4506,
+        "revenue": 201.45
+      }
+    },
+    {
+      "asset": {
+        "title": "Drifting Oceans (Reprise)",
+        "isrc": "INB0K2402312"
+      },
+      "channel": "Kabir Live - Topic",
+      "metrics": {
+        "views": 61325,
+        "revenue": 2708.07
+      }
+    },
+    {
+      "asset": {
+        "title": "Dancing Whispers (Reprise)",
+        "isrc": "INB0K2402326"
+      },
+      "channel": "Ayaan Mishra - Topic",
+      "metrics": {
+        "views": 2034,
+        "revenue": 93.48
+      }
+    },
+    {
+      "asset": {
+        "title": "Singing Whispers (Reprise)",
+        "isrc": "INB0K2402340"
+      },
+      "channel": "Vivaan Beats - Topic",
+      "metrics": {
+        "views": 7162,
+        "revenue": 332.79
+      }
+    },
+    {
+      "asset": {
+        "title": "Running Colours (Reprise)",
+        "isrc": "INB0K2402354"
+      },
+      "channel": "Dhruv Agarwal - Topic",
+      "metrics": {
+        "views": 234,
+        "revenue": 10.6
+      }
+    },
+    {
+      "asset": {
+        "title": "Painting Colours (Reprise)",
+        "isrc": "INB0K2402368"
+      },
+      "channel": "Harsh Chopra - Topic",
+      "metrics": {
+        "views": 7339,
+        "revenue": 335.12
+      }
+    },
+    {
+      "asset": {
+        "title": "Floating Heartbeats (Reprise)",
+        "isrc": "INB0K2402382"
+      },
+      "channel": "Karan Ghosh - Topic",
+      "metrics": {
+        "views": 22377,
+        "revenue": 994.12
+      }
+    },
+    {
+      "asset": {
+        "title": "Finding Heartbeats (Reprise)",
+        "isrc": "INB0K2402396"
+      },
+      "channel": "Siddharth Zaveri - Topic",
+      "metrics": {
+        "views": 732,
+        "revenue": 33.7
+      }
+    },
+    {
+      "asset": {
+        "title": "Holding Monsoons (Reprise)",
+        "isrc": "INB0K2402410"
+      },
+      "channel": "Shaurya Shah - Topic",
+      "metrics": {
+        "views": 42759,
+        "revenue": 2014.93
+      }
+    },
+    {
+      "asset": {
+        "title": "Writing Monsoons (Reprise)",
+        "isrc": "INB0K2402424"
+      },
+      "channel": "Reyansh Rana - Topic",
+      "metrics": {
+        "views": 11293,
+        "revenue": 532.06
+      }
+    },
+    {
+      "asset": {
+        "title": "Glowing Shadows (Reprise)",
+        "isrc": "INB0K2402438"
+      },
+      "channel": "Rehan Thakur - Topic",
+      "metrics": {
+        "views": 4832,
+        "revenue": 211.02
+      }
+    },
+    {
+      "asset": {
+        "title": "Waiting Horizons (Reprise)",
+        "isrc": "INB0K2402452"
+      },
+      "channel": "Manav Jain - Topic",
+      "metrics": {
+        "views": 867,
+        "revenue": 38.35
+      }
+    },
+    {
+      "asset": {
+        "title": "Counting Horizons (Reprise)",
+        "isrc": "INB0K2402466"
+      },
+      "channel": "Yash Mishra - Topic",
+      "metrics": {
+        "views": 83,
+        "revenue": 3.58
+      }
+    },
+    {
+      "asset": {
+        "title": "Dreaming Tea Stalls (Reprise)",
+        "isrc": "INB0K2402480"
+      },
+      "channel": "Varun Bhat - Topic",
+      "metrics": {
+        "views": 10645,
+        "revenue": 490.58
+      }
+    },
+    {
+      "asset": {
+        "title": "Turning Tea Stalls (Reprise)",
+        "isrc": "INB0K2402494"
+      },
+      "channel": "Rahul Agarwal - Topic",
+      "metrics": {
+        "views": 46049,
+        "revenue": 2152.59
+      }
+    },
+    {
+      "asset": {
+        "title": "Fading Stars Pt. 2",
+        "isrc": "INB0K2402508"
+      },
+      "channel": "Atharv Chopra - Topic",
+      "metrics": {
+        "views": 357,
+        "revenue": 15.25
+      }
+    },
+    {
+      "asset": {
+        "title": "Losing Stars Pt. 2",
+        "isrc": "INB0K2402522"
+      },
+      "channel": "Advait Live - Topic",
+      "metrics": {
+        "views": 34529,
+        "revenue": 1589.65
+      }
+    },
+    {
+      "asset": {
+        "title": "Breaking Rain Pt. 2",
+        "isrc": "INB0K2402536"
+      },
+      "channel": "Parth Zaveri - Topic",
+      "metrics": {
+        "views": 9626,
+        "revenue": 414.78
+      }
+    },
+    {
+      "asset": {
+        "title": "Chasing Ghosts Pt. 2",
+        "isrc": "INB0K2402550"
+      },
+      "channel": "Kunal Beats - Topic",
+      "metrics": {
+        "views": 141,
+        "revenue": 6.43
+      }
+    },
+    {
+      "asset": {
+        "title": "Hiding Ghosts Pt. 2",
+        "isrc": "INB0K2402564"
+      },
+      "channel": "Aman Rana - Topic",
+      "metrics": {
+        "views": 2131,
+        "revenue": 93.47
+      }
+    },
+    {
+      "asset": {
+        "title": "Falling Trains Pt. 2",
+        "isrc": "INB0K2402578"
+      },
+      "channel": "Nikhil MC - Topic",
+      "metrics": {
+        "views": 93,
+        "revenue": 4.11
+      }
+    },
+    {
+      "asset": {
+        "title": "Walking Trains Pt. 2",
+        "isrc": "INB0K2402592"
+      },
+      "channel": "Kabir Jain - Topic",
+      "metrics": {
+        "views": 6909,
+        "revenue": 315.11
+      }
+    },
+    {
+      "asset": {
+        "title": "Burning Mangoes Pt. 2",
+        "isrc": "INB0K2402606"
+      },
+      "channel": "Ayaan Wave - Topic",
+      "metrics": {
+        "views": 267,
+        "revenue": 12.58
+      }
+    },
+    {
+      "asset": {
+        "title": "Missing Mangoes Pt. 2",
+        "isrc": "INB0K2402620"
+      },
+      "channel": "Vivaan Bhat - Topic",
+      "metrics": {
+        "views": 45993,
+        "revenue": 2123.23
+      }
+    },
+    {
+      "asset": {
+        "title": "Calling Kites Pt. 2",
+        "isrc": "INB0K2402634"
+      },
+      "channel": "Dhruv Sound - Topic",
+      "metrics": {
+        "views": 604,
+        "revenue": 26.03
+      }
+    },
+    {
+      "asset": {
+        "title": "Watching Kites Pt. 2",
+        "isrc": "INB0K2402648"
+      },
+      "channel": "Harsh Chopra - Topic",
+      "metrics": {
+        "views": 304,
+        "revenue": 14.1
+      }
+    },
+    {
+      "asset": {
+        "title": "Drifting Lights Pt. 2",
+        "isrc": "INB0K2402662"
+      },
+      "channel": "Karan Live - Topic",
+      "metrics": {
+        "views": 18134,
+        "revenue": 825.39
+      }
+    },
+    {
+      "asset": {
+        "title": "Dancing Waves Pt. 2",
+        "isrc": "INB0K2402676"
+      },
+      "channel": "Siddharth Mishra - Topic",
+      "metrics": {
+        "views": 49,
+        "revenue": 2.31
+      }
+    },
+    {
+      "asset": {
+        "title": "Singing Waves Pt. 2",
+        "isrc": "INB0K2402690"
+      },
+      "channel": "Shaurya Beats - Topic",
+      "metrics": {
+        "views": 6470,
+        "revenue": 277.09
+      }
+    },
+    {
+      "asset": {
+        "title": "Running Clouds Pt. 2",
+        "isrc": "INB0K2402704"
+      },
+      "channel": "Reyansh Agarwal - Topic",
+      "metrics": {
+        "views": 7791,
+        "revenue": 356.92
+      }
+    },
+    {
+      "asset": {
+        "title": "Painting Clouds Pt. 2",
+        "isrc": "INB0K2402718"
+      },
+      "channel": "Rehan MC - Topic",
+      "metrics": {
+        "views": 2044,
+        "revenue": 91.52
+      }
+    },
+    {
+      "asset": {
+        "title": "Floating Streets Pt. 2",
+        "isrc": "INB0K2402732"
+      },
+      "channel": "Manav Ghosh - Topic",
+      "metrics": {
+        "views": 3657,
+        "revenue": 160.66
+      }
+    },
+    {
+      "asset": {
+        "title": "Finding Streets Pt. 2",
+        "isrc": "INB0K2402746"
+      },
+      "channel": "Yash Wave - Topic",
+      "metrics": {
+        "views": 7468,
+        "revenue": 326.82
+      }
+    },
+    {
+      "asset": {
+        "title": "Holding Fireflies Pt. 2",
+        "isrc": "INB0K2402760"
+      },
+      "channel": "Varun Shah - Topic",
+      "metrics": {
+        "views": 4685,
+        "revenue": 203.33
+      }
+    },
+    {
+      "asset": {
+        "title": "Writing Fireflies Pt. 2",
+        "isrc": "INB0K2402774"
+      },
+      "channel": "Rahul Sound - Topic",
+      "metrics": {
+        "views": 4322,
+        "revenue": 196.72
+      }
+    },
+    {
+      "asset": {
+        "title": "Glowing Mirrors Pt. 2",
+        "isrc": "INB0K2402788"
+      },
+      "channel": "Atharv Thakur - Topic",
+      "metrics": {
+        "views": 168,
+        "revenue": 7.71
+      }
+    },
+    {
+      "asset": {
+        "title": "Waiting Embers Pt. 2",
+        "isrc": "INB0K2402802"
+      },
+      "channel": "Advait Live - Topic",
+      "metrics": {
+        "views": 1192,
+        "revenue": 52.77
+      }
+    },
+    {
+      "asset": {
+        "title": "Counting Embers Pt. 2",
+        "isrc": "INB0K2402816"
+      },
+      "channel": "Parth Mishra - Topic",
+      "metrics": {
+        "views": 322,
+        "revenue": 14.25
+      }
+    },
+    {
+      "asset": {
+        "title": "Dreaming Petals Pt. 2",
+        "isrc": "INB0K2402830"
+      },
+      "channel": "Kunal Bhat - Topic",
+      "metrics": {
+        "views": 342,
+        "revenue": 15.16
+      }
+    },
+    {
+      "asset": {
+        "title": "Turning Petals Pt. 2",
+        "isrc": "INB0K2402844"
+      },
+      "channel": "Aman Agarwal - Topic",
+      "metrics": {
+        "views": 190,
+        "revenue": 8.49
+      }
+    },
+    {
+      "asset": {
+        "title": "Fading Sparrows Pt. 2",
+        "isrc": "INB0K2402858"
+      },
+      "channel": "Nikhil Chopra - Topic",
+      "metrics": {
+        "views": 1761,
+        "revenue": 83.01
+      }
+    },
+    {
+      "asset": {
+        "title": "Losing Sparrows Pt. 2",
+        "isrc": "INB0K2402872"
+      },
+      "channel": "Kabir Ghosh - Topic",
+      "metrics": {
+        "views": 4480,
+        "revenue": 208.9
+      }
+    },
+    {
+      "asset": {
+        "title": "Breaking Moons Pt. 2",
+        "isrc": "INB0K2402886"
+      },
+      "channel": "Ayaan Zaveri - Topic",
+      "metrics": {
+        "views": 30,
+        "revenue": 1.36
+      }
+    },
+    {
+      "asset": {
+        "title": "Chasing Rooftops Pt. 2",
+        "isrc": "INB0K2402900"
+      },
+      "channel": "Vivaan Shah - Topic",
+      "metrics": {
+        "views": 1754,
+        "revenue": 79.97
+      }
+    },
+    {
+      "asset": {
+        "title": "Hiding Rooftops Pt. 2",
+        "isrc": "INB0K2402914"
+      },
+      "channel": "Dhruv Rana - Topic",
+      "metrics": {
+        "views": 179,
+        "revenue": 7.89
+      }
+    },
+    {
+      "asset": {
+        "title": "Falling Oceans Pt. 2",
+        "isrc": "INB0K2402928"
+      },
+      "channel": "Harsh Thakur - Topic",
+      "metrics": {
+        "views": 3847,
+        "revenue": 174.39
+      }
+    },
+    {
+      "asset": {
+        "title": "Walking Oceans Pt. 2",
+        "isrc": "INB0K2402942"
+      },
+      "channel": "Karan Jain - Topic",
+      "metrics": {
+        "views": 136,
+        "revenue": 6.17
+      }
+    },
+    {
+      "asset": {
+        "title": "Burning Whispers Pt. 2",
+        "isrc": "INB0K2402956"
+      },
+      "channel": "Siddharth Mishra - Topic",
+      "metrics": {
+        "views": 1847,
+        "revenue": 83.25
+      }
+    },
+    {
+      "asset": {
+        "title": "Missing Whispers Pt. 2",
+        "isrc": "INB0K2402970"
+      },
+      "channel": "Shaurya Bhat - Topic",
+      "metrics": {
+        "views": 45619,
+        "revenue": 2006.97
+      }
+    },
+    {
+      "asset": {
+        "title": "Calling Colours Pt. 2",
+        "isrc": "INB0K2402984"
+      },
+      "channel": "Reyansh Sound - Topic",
+      "metrics": {
+        "views": 49769,
+        "revenue": 2210.15
+      }
+    },
+    {
+      "asset": {
+        "title": "Watching Colours Pt. 2",
+        "isrc": "INB0K2402998"
+      },
+      "channel": "Rehan Chopra - Topic",
+      "metrics": {
+        "views": 115,
+        "revenue": 4.94
+      }
+    },
+    {
+      "asset": {
+        "title": "Drifting Heartbeats Pt. 2",
+        "isrc": "INB0K2403012"
+      },
+      "channel": "Manav Live - Topic",
+      "metrics": {
+        "views": 13649,
+        "revenue": 601.65
+      }
+    },
+    {
+      "asset": {
+        "title": "Dancing Monsoons Pt. 2",
+        "isrc": "INB0K2403026"
+      },
+      "channel": "Yash Zaveri - Topic",
+      "metrics": {
+        "views": 82,
+        "revenue": 3.56
+      }
+    },
+    {
+      "asset": {
+        "title": "Singing Monsoons Pt. 2",
+        "isrc": "INB0K2403040"
+      },
+      "channel": "Varun Beats - Topic",
+      "metrics": {
+        "views": 29521,
+        "revenue": 1349.43
+      }
+    },
+    {
+      "asset": {
+        "title": "Running Shadows Pt. 2",
+        "isrc": "INB0K2403054"
+      },
+      "channel": "Rahul Rana - Topic",
+      "metrics": {
+        "views": 90,
+        "revenue": 3.97
+      }
+    },
+    {
+      "asset": {
+        "title": "Painting Shadows Pt. 2",
+        "isrc": "INB0K2403068"
+      },
+      "channel": "Atharv MC - Topic",
+      "metrics": {
+        "views": 383,
+        "revenue": 18.08
+      }
+    },
+    {
+      "asset": {
+        "title": "Floating Horizons Pt. 2",
+        "isrc": "INB0K2403082"
+      },
+      "channel": "Advait Jain - Topic",
+      "metrics": {
+        "views": 407,
+        "revenue": 17.64
+      }
+    },
+    {
+      "asset": {
+        "title": "Finding Horizons Pt. 2",
+        "isrc": "INB0K2403096"
+      },
+      "channel": "Parth Wave - Topic",
+      "metrics": {
+        "views": 3212,
+        "revenue": 144.82
+      }
+    },
+    {
+      "asset": {
+        "title": "Holding Tea Stalls Pt. 2",
+        "isrc": "INB0K2403110"
+      },
+      "channel": "Kunal Bhat - Topic",
+      "metrics": {
+        "views": 56527,
+        "revenue": 2560.18
+      }
+    },
+    {
+      "asset": {
+        "title": "Writing Tea Stalls Pt. 2",
+        "isrc": "INB0K2403124"
+      },
+      "channel": "Aman Sound - Topic",
+      "metrics": {
+        "views": 1289,
+        "revenue": 57.67
+      }
+    },
+    {
+      "asset": {
+        "title": "Glowing Stars (Live)",
+        "isrc": "INB0K2403138"
+      },
+      "channel": "Nikhil Thakur - Topic",
+      "metrics": {
+        "views": 109,
+        "revenue": 4.8
+      }
+    },
+    {
+      "asset": {
+        "title": "Waiting Rain (Live)",
+        "isrc": "INB0K2403152"
+      },
+      "channel": "Kabir Live - Topic",
+      "metrics": {
+        "views": 262,
+        "revenue": 11.89
+      }
+    },
+    {
+      "asset": {
+        "title": "Counting Rain (Live)",
+        "isrc": "INB0K2403166"
+      },
+      "channel": "Ayaan Mishra - Topic",
+      "metrics": {
+        "views": 123,
+        "revenue": 5.59
+      }
+    },
+    {
+      "asset": {
+        "title": "Dreaming Ghosts (Live)",
+        "isrc": "INB0K2403180"
+      },
+      "channel": "Vivaan Beats - Topic",
+      "metrics": {
+        "views": 179,
+        "revenue": 7.88
+      }
+    },
+    {
+      "asset": {
+        "title": "Turning Ghosts (Live)",
+        "isrc": "INB0K2403194"
+      },
+      "channel": "Dhruv Agarwal - Topic",
+      "metrics": {
+        "views": 2234,
+        "revenue": 100.92
+      }
+    },
+    {
+      "asset": {
+        "title": "Fading Trains (Live)",
+        "isrc": "INB0K2403208"
+      },
+      "channel": "Harsh MC - Topic",
+      "metrics": {
+        "views": 63,
+        "revenue": 2.73
+      }
+    },
+    {
+      "asset": {
+        "title": "Losing Trains (Live)",
+        "isrc": "INB0K2403222"
+      },
+      "channel": "Karan Ghosh - Topic",
+      "metrics": {
+        "views": 1850,
+        "revenue": 79.81
+      }
+    },
+    {
+      "asset": {
+        "title": "Breaking Mangoes (Live)",
+        "isrc": "INB0K2403236"
+      },
+      "channel": "Siddharth Wave - Topic",
+      "metrics": {
+        "views": 10554,
+        "revenue": 466.35
+      }
+    },
+    {
+      "asset": {
+        "title": "Chasing Kites (Live)",
+        "isrc": "INB0K2403250"
+      },
+      "channel": "Shaurya Shah - Topic",
+      "metrics": {
+        "views": 32174,
+        "revenue": 1376.99
+      }
+    },
+    {
+      "asset": {
+        "title": "Hiding Kites (Live)",
+        "isrc": "INB0K2403264"
+      },
+      "channel": "Reyansh Sound - Topic",
+      "metrics": {
+        "views": 85,
+        "revenue": 3.88
+      }
+    },
+    {
+      "asset": {
+        "title": "Falling Lights (Live)",
+        "isrc": "INB0K2403278"
+      },
+      "channel": "Rehan Thakur - Topic",
+      "metrics": {
+        "views": 5460,
+        "revenue": 245.57
+      }
+    },
+    {
+      "asset": {
+        "title": "Walking Lights (Live)",
+        "isrc": "INB0K2403292"
+      },
+      "channel": "Manav Jain - Topic",
+      "metrics": {
+        "views": 313,
+        "revenue": 13.55
+      }
+    },
+    {
+      "asset": {
+        "title": "Burning Waves (Live)",
+        "isrc": "INB0K2403306"
+      },
+      "channel": "Yash Mishra - Topic",
+      "metrics": {
+        "views": 1161,
+        "revenue": 52.81
+      }
+    },
+    {
+      "asset": {
+        "title": "Missing Waves (Live)",
+        "isrc": "INB0K2403320"
+      },
+      "channel": "Varun Bhat - Topic",
+      "metrics": {
+        "views": 1851,
+        "revenue": 81.07
+      }
+    },
+    {
+      "asset": {
+        "title": "Calling Clouds (Live)",
+        "isrc": "INB0K2403334"
+      },
+      "channel": "Rahul Agarwal - Topic",
+      "metrics": {
+        "views": 3103,
+        "revenue": 142.42
+      }
+    },
+    {
+      "asset": {
+        "title": "Watching Clouds (Live)",
+        "isrc": "INB0K2403348"
+      },
+      "channel": "Atharv Chopra - Topic",
+      "metrics": {
+        "views": 152,
+        "revenue": 6.96
+      }
+    },
+    {
+      "asset": {
+        "title": "Drifting Streets (Live)",
+        "isrc": "INB0K2403362"
+      },
+      "channel": "Advait Ghosh - Topic",
+      "metrics": {
+        "views": 4003,
+        "revenue": 186.88
+      }
+    },
+    {
+      "asset": {
+        "title": "Dancing Fireflies (Live)",
+        "isrc": "INB0K2403376"
+      },
+      "channel": "Parth Zaveri - Topic",
+      "metrics": {
+        "views": 2207,
+        "revenue": 95.4
+      }
+    },
+    {
+      "asset": {
+        "title": "Singing Fireflies (Live)",
+        "isrc": "INB0K2403390"
+      },
+      "channel": "Kunal Shah - Topic",
+      "metrics": {
+        "views": 38195,
+        "revenue": 1735.23
+      }
+    },
+    {
+      "asset": {
+        "title": "Running Mirrors (Live)",
+        "isrc": "INB0K2403404"
+      },
+      "channel": "Aman Rana - Topic",
+      "metrics": {
+        "views": 8427,
+        "revenue": 387.96
+      }
+    },
+    {
+      "asset": {
+        "title": "Painting Mirrors (Live)",
+        "isrc": "INB0K2403418"
+      },
+      "channel": "Nikhil Thakur - Topic",
+      "metrics": {
+        "views": 86,
+        "revenue": 4
+      }
+    },
+    {
+      "asset": {
+        "title": "Floating Embers (Live)",
+        "isrc": "INB0K2403432"
+      },
+      "channel": "Kabir Jain - Topic",
+      "metrics": {
+        "views": 578,
+        "revenue": 24.99
+      }
+    },
+    {
+      "asset": {
+        "title": "Finding Embers (Live)",
+        "isrc": "INB0K2403446"
+      },
+      "channel": "Ayaan Wave - Topic",
+      "metrics": {
+        "views": 191,
+        "revenue": 8.47
+      }
+    },
+    {
+      "asset": {
+        "title": "Holding Petals (Live)",
+        "isrc": "INB0K2403460"
+      },
+      "channel": "Vivaan Bhat - Topic",
+      "metrics": {
+        "views": 44,
+        "revenue": 1.97
+      }
+    },
+    {
+      "asset": {
+        "title": "Writing Petals (Live)",
+        "isrc": "INB0K2403474"
+      },
+      "channel": "Dhruv Sound - Topic",
+      "metrics": {
+        "views": 211,
+        "revenue": 9.81
+      }
+    },
+    {
+      "asset": {
+        "title": "Glowing Sparrows (Live)",
+        "isrc": "INB0K2403488"
+      },
+      "channel": "Harsh Chopra - Topic",
+      "metrics": {
+        "views": 50,
+        "revenue": 2.22
+      }
+    },
+    {
+      "asset": {
+        "title": "Terrace Nights (Official Audio)",
+        "isrc": null
+      },
+      "channel": "Arjun N - Topic",
+      "metrics": {
+        "views": 1406815,
+        "revenue": 63149.56
+      }
+    },
+    {
+      "asset": {
+        "title": "Paper Boats | Aarav | Monsoon EP",
+        "isrc": null
+      },
+      "channel": "Monsoon Records",
+      "metrics": {
+        "views": 1620,
+        "revenue": 70.61
+      }
+    },
+    {
+      "asset": {
+        "title": "Chai Pe Charcha (Lyric Video)",
+        "isrc": null
+      },
+      "channel": "Meera - Topic",
+      "metrics": {
+        "views": 14323,
+        "revenue": 644.13
+      }
+    },
+    {
+      "asset": {
+        "title": "Diwali Mashup 2026 (Fan Upload)",
+        "isrc": null
+      },
+      "channel": "DJ Random",
+      "metrics": {
+        "views": 8800,
+        "revenue": 396
+      }
+    }
+  ]
+}

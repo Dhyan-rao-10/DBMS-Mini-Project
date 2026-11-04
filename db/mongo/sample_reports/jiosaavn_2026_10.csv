@@ -1,0 +1,345 @@
+ISRC,Song,Artists,Plays,Amount
+INM0R2500003,Petrichor,Aarav,154228,9568.41
+INM0R2500002,Paper Boats,Aarav,1824,105.48
+INM0R2500001,Monsoon Letters,Aarav,78798,4911.07
+INM0R2500010,Chai Pe Charcha,Meera,14392,857.51
+INM0R2500008,Bandra Blues,ZOYA|Neil F,17287,1050.08
+INM0R2500007,Terrace Nights,Arjun N|Tara,1573870,93024.23
+INM0R2500009,Rain Cypher,Arjun N|Tara,696224,39881.24
+INB0K2400002,Waiting Stars,Advait Live,411,25.08
+INB0K2400016,Counting Stars,Parth Mishra,181,10.57
+INB0K2400023,Watching Stars,Ira MC,3219,185.77
+INB0K2400037,Drifting Rain,Nisha Reddy,219,12.98
+INB0K2400044,Turning Rain,Aman Agarwal,17364,1062.34
+INB0K2400058,Fading Ghosts,Nikhil Chopra,68516,4137.99
+INB0K2400065,Singing Ghosts,Priya Upadhyay,99,5.66
+INB0K2400079,Running Trains,Pari Sound,2278,137.48
+INB0K2400086,Breaking Trains,Ayaan Zaveri,32537,1924.23
+INB0K2400100,Chasing Mangoes,Vivaan Shah,86,5.04
+INB0K2400107,Floating Mangoes,Mahi Live,1436,88.32
+INB0K2400121,Finding Mangoes,Shreya Bose,27814,1619.54
+INB0K2400128,Falling Kites,Harsh Thakur,1589,99.84
+INB0K2400142,Walking Kites,Karan Jain,56,3.27
+INB0K2400149,Writing Kites,Pooja Yadav,412,24.47
+INB0K2400163,Glowing Lights,Aditi MC,974,58.35
+INB0K2400170,Missing Lights,Shaurya Bhat,31391,1932.32
+INB0K2400184,Calling Waves,Reyansh Sound,61,3.65
+INB0K2400191,Counting Waves,Kiara Wave,68,4.08
+INB0K2400205,Dreaming Clouds,Anika Hegde,550,34.40
+INB0K2400212,Drifting Clouds,Manav Live,67,3.86
+INB0K2400226,Dancing Streets,Yash Zaveri,4206,246.53
+INB0K2400233,Fading Streets,Diya Pillai,1382,83.88
+INB0K2400247,Losing Streets,Kavya Live,390,22.54
+INB0K2400254,Running Fireflies,Rahul Rana,25864,1507.17
+INB0K2400268,Painting Fireflies,Atharv MC,1302,75.27
+INB0K2400275,Chasing Mirrors,Saanvi Upadhyay,11616,711.60
+INB0K2400289,Hiding Mirrors,Sara Yadav,4796,287.07
+INB0K2400296,Finding Mirrors,Parth Wave,9489,578.68
+INB0K2400310,Holding Embers,Kunal Bhat,16399,986.95
+INB0K2400317,Walking Embers,Nisha Qureshi,66,4.04
+INB0K2400331,Burning Petals,Sneha Banerjee,12170,709.02
+INB0K2400338,Glowing Petals,Nikhil Thakur,36058,2194.52
+INB0K2400352,Waiting Sparrows,Kabir Live,822,49.95
+INB0K2400359,Calling Sparrows,Pari Kulkarni,592,35.71
+INB0K2400373,Watching Sparrows,Myra Pillai,4696,270.45
+INB0K2400380,Dreaming Moons,Vivaan Beats,55,3.18
+INB0K2400394,Turning Moons,Dhruv Agarwal,2654,166.71
+INB0K2400401,Dancing Rooftops,Shreya Bose,15163,884.14
+INB0K2400415,Singing Rooftops,Ritika Upadhyay,2713,170.10
+INB0K2400422,Losing Rooftops,Karan Ghosh,20008,1187.13
+INB0K2400436,Breaking Oceans,Siddharth Wave,27061,1622.13
+INB0K2400443,Painting Oceans,Aditi Naidu,52088,3101.82
+INB0K2400457,Floating Whispers,Navya Live,147,8.38
+INB0K2400464,Hiding Whispers,Reyansh Sound,16652,978.94
+INB0K2400478,Falling Colours,Rehan Thakur,511,30.78
+INB0K2400485,Holding Colours,Anika Beats,11484,697.62
+INB0K2400499,Writing Colours,Tanvi Kulkarni,25270,1533.05
+INB0K2400506,Burning Heartbeats,Yash Mishra,58856,3459.89
+INB0K2400520,Missing Heartbeats,Varun Bhat,2898,180.56
+INB0K2400527,Waiting Monsoons,Kavya Reddy,1004,60.83
+INB0K2400541,Counting Monsoons,Anvi Wave,10284,615.63
+INB0K2400548,Watching Monsoons,Atharv Chopra,42,2.40
+INB0K2400562,Drifting Shadows,Advait Ghosh,158,9.35
+INB0K2400569,Turning Shadows,Sara Sound,12713,770.63
+INB0K2400583,Fading Horizons,Ira Pillai,2565,147.32
+INB0K2400590,Singing Horizons,Kunal Shah,67,3.94
+INB0K2400604,Running Tea Stalls,Aman Rana,4131,248.30
+INB0K2400611,Breaking Tea Stalls,Sneha Bose,3531,209.26
+INB0K2400625,Chasing Stars (Acoustic),Priya Beats,113,6.91
+INB0K2400632,Floating Stars (Acoustic),Kabir Jain,4070,249.43
+INB0K2400646,Finding Stars (Acoustic),Ayaan Wave,40449,2498.26
+INB0K2400653,Falling Rain (Acoustic),Myra MC,72,4.49
+INB0K2400667,Walking Rain (Acoustic),Mahi Qureshi,1551,91.14
+INB0K2400674,Writing Rain (Acoustic),Dhruv Sound,1056,65.53
+INB0K2400688,Glowing Ghosts (Acoustic),Harsh Chopra,15909,954.71
+INB0K2400695,Missing Ghosts (Acoustic),Ritika Hegde,8026,473.95
+INB0K2400709,Calling Trains (Acoustic),Pooja Sound,122,7.33
+INB0K2400716,Counting Trains (Acoustic),Siddharth Zaveri,42544,2659.86
+INB0K2400730,Dreaming Mangoes (Acoustic),Shaurya Beats,47728,2776.50
+INB0K2400737,Drifting Mangoes (Acoustic),Navya Reddy,33979,1993.20
+INB0K2400751,Dancing Kites (Acoustic),Kiara Bose,1819,109.27
+INB0K2400758,Fading Kites (Acoustic),Rehan MC,135,8.42
+INB0K2400772,Losing Kites (Acoustic),Manav Jain,8890,528.80
+INB0K2400779,Running Lights (Acoustic),Tanvi Yadav,7861,457.55
+INB0K2400793,Painting Lights (Acoustic),Diya Naidu,1657,104.04
+INB0K2400800,Chasing Waves (Acoustic),Varun Bhat,31308,1958.90
+INB0K2400814,Hiding Waves (Acoustic),Rahul Sound,548,32.98
+INB0K2400821,Finding Waves (Acoustic),Anvi Banerjee,220,13.33
+INB0K2400835,Holding Clouds (Acoustic),Saanvi Hegde,34368,2061.46
+INB0K2400842,Walking Clouds (Acoustic),Advait Live,33779,2087.89
+INB0K2400856,Burning Streets (Acoustic),Parth Mishra,44293,2639.67
+INB0K2400863,Glowing Streets (Acoustic),Ira Pillai,111,6.70
+INB0K2400877,Waiting Fireflies (Acoustic),Nisha Reddy,902,54.15
+INB0K2400884,Calling Fireflies (Acoustic),Aman Agarwal,46821,2749.40
+INB0K2400898,Watching Fireflies (Acoustic),Nikhil MC,328,19.22
+INB0K2400905,Dreaming Mirrors (Acoustic),Priya Upadhyay,139,8.24
+INB0K2400919,Turning Mirrors (Acoustic),Pari Sound,2273,132.74
+INB0K2400926,Dancing Embers (Acoustic),Ayaan Wave,7025,418.00
+INB0K2400940,Singing Embers (Acoustic),Vivaan Shah,855,51.41
+INB0K2400947,Losing Embers (Acoustic),Mahi Live,266,15.37
+INB0K2400961,Breaking Petals (Acoustic),Shreya Banerjee,101,6.32
+INB0K2400968,Painting Petals (Acoustic),Harsh Thakur,1682,105.74
+INB0K2400982,Floating Sparrows (Acoustic),Karan Jain,3171,196.17
+INB0K2400989,Hiding Sparrows (Acoustic),Pooja Kulkarni,909,56.00
+INB0K2401003,Falling Moons (Acoustic),Aditi MC,691,41.93
+INB0K2401010,Holding Moons (Acoustic),Shaurya Bhat,125,7.22
+INB0K2401024,Writing Moons (Acoustic),Reyansh Agarwal,163,9.55
+INB0K2401031,Burning Rooftops (Acoustic),Kiara Wave,11397,692.03
+INB0K2401045,Missing Rooftops (Acoustic),Anika Hegde,236,14.07
+INB0K2401052,Waiting Oceans (Acoustic),Manav Ghosh,461,27.82
+INB0K2401066,Counting Oceans (Acoustic),Yash Zaveri,142,8.13
+INB0K2401073,Watching Oceans (Acoustic),Diya Pillai,461,28.21
+INB0K2401087,Drifting Whispers (Acoustic),Kavya Live,1031,60.97
+INB0K2401094,Turning Whispers (Acoustic),Rahul Rana,9820,561.19
+INB0K2401108,Fading Colours (Acoustic),Atharv Thakur,34305,2161.06
+INB0K2401115,Singing Colours (Acoustic),Saanvi Beats,12263,759.39
+INB0K2401129,Running Heartbeats (Acoustic),Sara Yadav,110,6.60
+INB0K2401136,Breaking Heartbeats (Acoustic),Parth Wave,973,57.68
+INB0K2401150,Chasing Monsoons (Acoustic),Kunal Bhat,3385,208.75
+INB0K2401157,Floating Monsoons (Acoustic),Nisha Qureshi,1094,62.99
+INB0K2401171,Finding Monsoons (Acoustic),Sneha Wave,86,5.16
+INB0K2401178,Falling Shadows (Acoustic),Nikhil Chopra,5496,339.74
+INB0K2401192,Walking Shadows (Acoustic),Kabir Live,347,21.80
+INB0K2401199,Writing Shadows (Acoustic),Pari Kulkarni,504,28.93
+INB0K2401213,Glowing Horizons (Acoustic),Myra Pillai,47223,2914.04
+INB0K2401220,Missing Horizons (Acoustic),Vivaan Beats,45592,2672.63
+INB0K2401234,Calling Tea Stalls (Acoustic),Dhruv Rana,201,12.30
+INB0K2401241,Counting Tea Stalls (Acoustic),Shreya Bose,8067,497.23
+INB0K2401255,Dreaming Stars (Remix),Ritika Upadhyay,434,27.08
+INB0K2401262,Drifting Stars (Remix),Karan Jain,2548,146.45
+INB0K2401276,Dancing Rain (Remix),Siddharth Wave,1757,105.61
+INB0K2401283,Fading Rain (Remix),Aditi Naidu,4590,266.04
+INB0K2401297,Losing Rain (Remix),Navya Qureshi,3187,187.53
+INB0K2401304,Running Ghosts (Remix),Reyansh Sound,134,7.67
+INB0K2401318,Painting Ghosts (Remix),Rehan Thakur,75861,4725.25
+INB0K2401325,Chasing Trains (Remix),Anika Hegde,88,5.45
+INB0K2401339,Hiding Trains (Remix),Tanvi Kulkarni,17714,1027.71
+INB0K2401346,Finding Trains (Remix),Yash Mishra,2886,171.83
+INB0K2401360,Holding Mangoes (Remix),Varun Beats,46261,2734.07
+INB0K2401367,Walking Mangoes (Remix),Kavya Reddy,83,5.23
+INB0K2401381,Burning Kites (Remix),Anvi Wave,410,23.87
+INB0K2401388,Glowing Kites (Remix),Atharv MC,4439,258.95
+INB0K2401402,Waiting Lights (Remix),Advait Ghosh,4786,293.48
+INB0K2401409,Calling Lights (Remix),Sara Sound,32,1.85
+INB0K2401423,Watching Lights (Remix),Ira Naidu,3793,228.71
+INB0K2401430,Dreaming Waves (Remix),Kunal Shah,2953,182.74
+INB0K2401444,Turning Waves (Remix),Aman Rana,1429,86.70
+INB0K2401451,Dancing Clouds (Remix),Sneha Banerjee,1803,111.79
+INB0K2401465,Singing Clouds (Remix),Priya Beats,3511,207.10
+INB0K2401472,Losing Clouds (Remix),Kabir Jain,509,31.91
+INB0K2401486,Breaking Streets (Remix),Ayaan Mishra,14449,892.66
+INB0K2401493,Painting Streets (Remix),Myra MC,359,22.11
+INB0K2401507,Floating Fireflies (Remix),Mahi Qureshi,55690,3187.26
+INB0K2401514,Hiding Fireflies (Remix),Dhruv Agarwal,22032,1316.58
+INB0K2401528,Falling Mirrors (Remix),Harsh Chopra,965,56.20
+INB0K2401535,Holding Mirrors (Remix),Ritika Hegde,360,22.35
+INB0K2401549,Writing Mirrors (Remix),Pooja Sound,206,11.75
+INB0K2401556,Burning Embers (Remix),Siddharth Zaveri,27336,1646.64
+INB0K2401570,Missing Embers (Remix),Shaurya Shah,456,27.82
+INB0K2401577,Waiting Petals (Remix),Navya Live,458,26.35
+INB0K2401591,Counting Petals (Remix),Kiara Bose,21915,1295.19
+INB0K2401598,Watching Petals (Remix),Rehan MC,271,17.02
+INB0K2401612,Drifting Sparrows (Remix),Manav Jain,10844,654.84
+INB0K2401619,Turning Sparrows (Remix),Tanvi Yadav,283,16.57
+INB0K2401633,Fading Moons (Remix),Diya MC,364,20.88
+INB0K2401640,Singing Moons (Remix),Varun Bhat,105,6.24
+INB0K2401654,Running Rooftops (Remix),Rahul Sound,1951,114.75
+INB0K2401661,Breaking Rooftops (Remix),Anvi Banerjee,4055,248.33
+INB0K2401675,Chasing Oceans (Remix),Saanvi Hegde,105,6.48
+INB0K2401682,Floating Oceans (Remix),Advait Live,947,54.01
+INB0K2401696,Finding Oceans (Remix),Parth Zaveri,7289,455.82
+INB0K2401703,Falling Whispers (Remix),Ira Pillai,1095,63.10
+INB0K2401717,Walking Whispers (Remix),Nisha Reddy,9546,549.95
+INB0K2401724,Writing Whispers (Remix),Aman Rana,4239,245.87
+INB0K2401738,Glowing Colours (Remix),Nikhil MC,512,31.24
+INB0K2401745,Missing Colours (Remix),Priya Upadhyay,132,7.56
+INB0K2401759,Calling Heartbeats (Remix),Pari Yadav,909,51.81
+INB0K2401766,Counting Heartbeats (Remix),Ayaan Wave,56,3.38
+INB0K2401780,Dreaming Monsoons (Remix),Vivaan Shah,237,14.32
+INB0K2401787,Drifting Monsoons (Remix),Mahi Qureshi,17763,1032.71
+INB0K2401801,Dancing Shadows (Remix),Shreya Banerjee,70,4.04
+INB0K2401808,Fading Shadows (Remix),Harsh Thakur,13051,764.44
+INB0K2401822,Losing Shadows (Remix),Karan Live,115,6.76
+INB0K2401829,Running Horizons (Remix),Pooja Kulkarni,17430,1031.84
+INB0K2401843,Painting Horizons (Remix),Aditi MC,6099,360.84
+INB0K2401850,Chasing Tea Stalls (Remix),Shaurya Beats,37159,2270.66
+INB0K2401864,Hiding Tea Stalls (Remix),Reyansh Agarwal,27717,1684.42
+INB0K2401871,Finding Tea Stalls (Remix),Kiara Wave,54291,3302.83
+INB0K2401885,Holding Stars (Reprise),Anika Upadhyay,993,56.75
+INB0K2401892,Walking Stars (Reprise),Manav Ghosh,1501,86.03
+INB0K2401906,Burning Rain (Reprise),Yash Zaveri,132,7.67
+INB0K2401913,Glowing Rain (Reprise),Diya Naidu,4704,286.74
+INB0K2401927,Waiting Ghosts (Reprise),Kavya Live,26973,1655.54
+INB0K2401934,Calling Ghosts (Reprise),Rahul Rana,297,17.97
+INB0K2401948,Watching Ghosts (Reprise),Atharv Thakur,552,34.77
+INB0K2401955,Dreaming Trains (Reprise),Saanvi Beats,2151,129.18
+INB0K2401969,Turning Trains (Reprise),Sara Yadav,13898,840.61
+INB0K2401976,Dancing Mangoes (Reprise),Parth Mishra,32832,2024.57
+INB0K2401990,Singing Mangoes (Reprise),Kunal Bhat,118,7.14
+INB0K2401997,Losing Mangoes (Reprise),Nisha Qureshi,375,22.08
+INB0K2402011,Breaking Kites (Reprise),Sneha Wave,874,51.21
+INB0K2402018,Painting Kites (Reprise),Nikhil Chopra,387,22.60
+INB0K2402032,Floating Lights (Reprise),Kabir Ghosh,78,4.79
+INB0K2402039,Hiding Lights (Reprise),Pari Sound,121,6.98
+INB0K2402053,Falling Waves (Reprise),Myra Pillai,58199,3515.48
+INB0K2402060,Holding Waves (Reprise),Vivaan Beats,18048,1029.13
+INB0K2402074,Writing Waves (Reprise),Dhruv Rana,945,56.21
+INB0K2402081,Burning Clouds (Reprise),Shreya Bose,141,8.46
+INB0K2402095,Missing Clouds (Reprise),Ritika Beats,12479,735.92
+INB0K2402102,Waiting Streets (Reprise),Karan Jain,30919,1881.95
+INB0K2402116,Counting Streets (Reprise),Siddharth Wave,53,3.30
+INB0K2402123,Watching Streets (Reprise),Aditi Naidu,825,48.68
+INB0K2402137,Drifting Fireflies (Reprise),Navya Qureshi,90,5.46
+INB0K2402144,Turning Fireflies (Reprise),Reyansh Sound,281,17.47
+INB0K2402158,Fading Mirrors (Reprise),Rehan Chopra,25012,1546.83
+INB0K2402165,Singing Mirrors (Reprise),Anika Hegde,51420,3141.96
+INB0K2402179,Running Embers (Reprise),Tanvi Kulkarni,28788,1758.12
+INB0K2402186,Breaking Embers (Reprise),Yash Zaveri,201,12.49
+INB0K2402200,Chasing Petals (Reprise),Varun Beats,1356,77.75
+INB0K2402207,Floating Petals (Reprise),Kavya Reddy,2322,139.27
+INB0K2402221,Finding Petals (Reprise),Anvi Bose,39725,2268.40
+INB0K2402228,Falling Sparrows (Reprise),Atharv MC,90,5.66
+INB0K2402242,Walking Sparrows (Reprise),Advait Ghosh,8736,530.33
+INB0K2402249,Writing Sparrows (Reprise),Sara Yadav,562,33.46
+INB0K2402263,Glowing Moons (Reprise),Ira Naidu,968,55.47
+INB0K2402270,Missing Moons (Reprise),Kunal Shah,444,25.61
+INB0K2402284,Calling Rooftops (Reprise),Aman Sound,3685,223.61
+INB0K2402291,Counting Rooftops (Reprise),Sneha Banerjee,29909,1784.97
+INB0K2402305,Dreaming Oceans (Reprise),Priya Beats,30510,1811.15
+INB0K2402312,Drifting Oceans (Reprise),Kabir Live,66697,4161.66
+INB0K2402326,Dancing Whispers (Reprise),Ayaan Mishra,2563,159.59
+INB0K2402333,Fading Whispers (Reprise),Myra MC,693,39.77
+INB0K2402347,Losing Whispers (Reprise),Mahi Reddy,4050,250.83
+INB0K2402354,Running Colours (Reprise),Dhruv Agarwal,211,12.50
+INB0K2402368,Painting Colours (Reprise),Harsh Chopra,10172,590.39
+INB0K2402375,Chasing Heartbeats (Reprise),Ritika Upadhyay,586,33.42
+INB0K2402389,Hiding Heartbeats (Reprise),Pooja Sound,633,39.25
+INB0K2402396,Finding Heartbeats (Reprise),Siddharth Zaveri,957,58.25
+INB0K2402410,Holding Monsoons (Reprise),Shaurya Shah,42802,2676.69
+INB0K2402417,Walking Monsoons (Reprise),Navya Live,22661,1396.09
+INB0K2402431,Burning Shadows (Reprise),Kiara Banerjee,27478,1691.34
+INB0K2402438,Glowing Shadows (Reprise),Rehan Thakur,4328,265.11
+INB0K2402452,Waiting Horizons (Reprise),Manav Jain,1008,60.76
+INB0K2402459,Calling Horizons (Reprise),Tanvi Yadav,61,3.50
+INB0K2402473,Watching Horizons (Reprise),Diya MC,13879,819.33
+INB0K2402480,Dreaming Tea Stalls (Reprise),Varun Bhat,11092,686.21
+INB0K2402494,Turning Tea Stalls (Reprise),Rahul Agarwal,50639,3104.18
+INB0K2402501,Dancing Stars Pt. 2,Anvi Wave,110,6.28
+INB0K2402515,Singing Stars Pt. 2,Saanvi Hegde,134,7.78
+INB0K2402522,Losing Stars Pt. 2,Advait Live,45280,2820.02
+INB0K2402536,Breaking Rain Pt. 2,Parth Zaveri,11112,639.37
+INB0K2402543,Painting Rain Pt. 2,Ira Pillai,13568,798.77
+INB0K2402557,Floating Ghosts Pt. 2,Nisha Live,364,21.24
+INB0K2402564,Hiding Ghosts Pt. 2,Aman Rana,2766,162.21
+INB0K2402578,Falling Trains Pt. 2,Nikhil MC,129,7.60
+INB0K2402585,Holding Trains Pt. 2,Priya Beats,14220,834.04
+INB0K2402599,Writing Trains Pt. 2,Pari Yadav,456,28.37
+INB0K2402606,Burning Mangoes Pt. 2,Ayaan Wave,321,19.26
+INB0K2402620,Missing Mangoes Pt. 2,Vivaan Bhat,51299,3210.96
+INB0K2402627,Waiting Kites Pt. 2,Mahi Qureshi,28516,1754.66
+INB0K2402641,Counting Kites Pt. 2,Shreya Banerjee,1354,78.62
+INB0K2402648,Watching Kites Pt. 2,Harsh Chopra,433,25.94
+INB0K2402662,Drifting Lights Pt. 2,Karan Live,21473,1243.64
+INB0K2402669,Turning Lights Pt. 2,Pooja Kulkarni,94,5.34
+INB0K2402683,Fading Waves Pt. 2,Aditi Pillai,1100,63.68
+INB0K2402690,Singing Waves Pt. 2,Shaurya Beats,7179,449.24
+INB0K2402704,Running Clouds Pt. 2,Reyansh Agarwal,8903,552.42
+INB0K2402711,Breaking Clouds Pt. 2,Kiara Bose,5605,325.05
+INB0K2402725,Chasing Streets Pt. 2,Anika Upadhyay,703,42.33
+INB0K2402732,Floating Streets Pt. 2,Manav Ghosh,4117,246.06
+INB0K2402746,Finding Streets Pt. 2,Yash Wave,8906,538.89
+INB0K2402753,Falling Fireflies Pt. 2,Diya Naidu,5385,338.59
+INB0K2402767,Walking Fireflies Pt. 2,Kavya Live,38762,2224.88
+INB0K2402774,Writing Fireflies Pt. 2,Rahul Sound,5926,361.14
+INB0K2402788,Glowing Mirrors Pt. 2,Atharv Thakur,190,11.97
+INB0K2402795,Missing Mirrors Pt. 2,Saanvi Beats,17109,1023.34
+INB0K2402809,Calling Embers Pt. 2,Sara Kulkarni,480,27.42
+INB0K2402816,Counting Embers Pt. 2,Parth Mishra,381,22.53
+INB0K2402830,Dreaming Petals Pt. 2,Kunal Bhat,330,19.24
+INB0K2402837,Drifting Petals Pt. 2,Nisha Reddy,583,35.45
+INB0K2402851,Dancing Sparrows Pt. 2,Sneha Wave,324,19.97
+INB0K2402858,Fading Sparrows Pt. 2,Nikhil Chopra,1721,100.26
+INB0K2402872,Losing Sparrows Pt. 2,Kabir Ghosh,5010,288.97
+INB0K2402879,Running Moons Pt. 2,Pari Sound,249,14.45
+INB0K2402893,Painting Moons Pt. 2,Myra Naidu,177,10.50
+INB0K2402900,Chasing Rooftops Pt. 2,Vivaan Shah,2242,138.17
+INB0K2402914,Hiding Rooftops Pt. 2,Dhruv Rana,224,13.76
+INB0K2402921,Finding Rooftops Pt. 2,Shreya Bose,146,8.73
+INB0K2402935,Holding Oceans Pt. 2,Ritika Beats,4824,293.56
+INB0K2402942,Walking Oceans Pt. 2,Karan Jain,179,10.28
+INB0K2402956,Burning Whispers Pt. 2,Siddharth Mishra,2007,124.74
+INB0K2402963,Glowing Whispers Pt. 2,Aditi MC,970,59.41
+INB0K2402977,Waiting Colours Pt. 2,Navya Qureshi,108,6.38
+INB0K2402984,Calling Colours Pt. 2,Reyansh Sound,58196,3573.73
+INB0K2402998,Watching Colours Pt. 2,Rehan Chopra,127,7.86
+INB0K2403005,Dreaming Heartbeats Pt. 2,Anika Hegde,6670,396.84
+INB0K2403019,Turning Heartbeats Pt. 2,Tanvi Sound,618,36.96
+INB0K2403026,Dancing Monsoons Pt. 2,Yash Zaveri,113,6.82
+INB0K2403040,Singing Monsoons Pt. 2,Varun Beats,35884,2126.18
+INB0K2403047,Losing Monsoons Pt. 2,Kavya Live,283,16.17
+INB0K2403061,Breaking Shadows Pt. 2,Anvi Bose,92,5.49
+INB0K2403068,Painting Shadows Pt. 2,Atharv MC,335,20.55
+INB0K2403082,Floating Horizons Pt. 2,Advait Jain,424,25.80
+INB0K2403089,Hiding Horizons Pt. 2,Sara Yadav,1796,106.16
+INB0K2403103,Falling Tea Stalls Pt. 2,Ira Naidu,32934,2043.83
+INB0K2403110,Holding Tea Stalls Pt. 2,Kunal Bhat,51621,3245.46
+INB0K2403124,Writing Tea Stalls Pt. 2,Aman Sound,1653,95.60
+INB0K2403131,Burning Stars (Live),Sneha Banerjee,56679,3565.32
+INB0K2403145,Missing Stars (Live),Priya Hegde,365,21.00
+INB0K2403152,Waiting Rain (Live),Kabir Live,336,21.14
+INB0K2403166,Counting Rain (Live),Ayaan Mishra,144,8.68
+INB0K2403173,Watching Rain (Live),Myra Pillai,41,2.45
+INB0K2403187,Drifting Ghosts (Live),Mahi Reddy,4430,267.94
+INB0K2403194,Turning Ghosts (Live),Dhruv Agarwal,2462,154.12
+INB0K2403208,Fading Trains (Live),Harsh MC,68,4.14
+INB0K2403215,Singing Trains (Live),Ritika Upadhyay,2469,140.79
+INB0K2403229,Running Mangoes (Live),Pooja Sound,4158,237.90
+INB0K2403236,Breaking Mangoes (Live),Siddharth Wave,9756,582.02
+INB0K2403250,Chasing Kites (Live),Shaurya Shah,44794,2795.68
+INB0K2403257,Floating Kites (Live),Navya Live,2000,117.62
+INB0K2403271,Finding Kites (Live),Kiara Banerjee,262,15.28
+INB0K2403278,Falling Lights (Live),Rehan Thakur,6499,374.01
+INB0K2403292,Walking Lights (Live),Manav Jain,419,25.25
+INB0K2403299,Writing Lights (Live),Tanvi Kulkarni,29215,1722.35
+INB0K2403313,Glowing Waves (Live),Diya MC,153,9.28
+INB0K2403320,Missing Waves (Live),Varun Bhat,1984,113.27
+INB0K2403334,Calling Clouds (Live),Rahul Agarwal,3260,188.59
+INB0K2403341,Counting Clouds (Live),Anvi Wave,67,4.11
+INB0K2403355,Dreaming Streets (Live),Saanvi Upadhyay,42929,2480.81
+INB0K2403362,Drifting Streets (Live),Advait Ghosh,3649,227.13
+INB0K2403376,Dancing Fireflies (Live),Parth Zaveri,2941,177.33
+INB0K2403383,Fading Fireflies (Live),Ira Pillai,468,28.15
+INB0K2403397,Losing Fireflies (Live),Nisha Live,25736,1528.19
+INB0K2403404,Running Mirrors (Live),Aman Rana,8864,545.61
+INB0K2403418,Painting Mirrors (Live),Nikhil Thakur,103,5.88
+INB0K2403425,Chasing Embers (Live),Priya Beats,12040,719.54
+INB0K2403439,Hiding Embers (Live),Pari Yadav,6472,395.73
+INB0K2403446,Finding Embers (Live),Ayaan Wave,198,11.38
+INB0K2403460,Holding Petals (Live),Vivaan Bhat,50,3.08
+INB0K2403467,Walking Petals (Live),Mahi Qureshi,3411,208.47
+INB0K2403481,Burning Sparrows (Live),Shreya Wave,11801,742.91
+INB0K2403488,Glowing Sparrows (Live),Harsh Chopra,54,3.26
+,Monsoon Letters - Lofi Flip,Kabir Beats|Aarav,505072,28954.12
+,"Neon Chai (From ""City Lights"")",ZOYA|RoGu,7203,449.37
+,Raag Megh Revival,Leela Krishnan|Vik,237527,13674.77
+,Local Train Dreamz,Zoya Khan,39995,2473.62
